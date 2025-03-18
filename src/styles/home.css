@@ -12,7 +12,7 @@
 .home-section .content{
     flex: 1;
     padding-left: 140px;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 .home-section img{
     flex: 1;
@@ -25,11 +25,12 @@
     color: #6D3620;
     text-shadow: 3px 3px 2px rgba(63, 63, 63, 0.6);
     line-height: 1;
-    margin: 20px 0;
+    margin: 15px 0;
 }
 .home-section h2{
     font-size: 30px;
     font-weight: bolder;
+    margin-bottom: 10px;
 }
 .home-section p{
     font-size: 15px;
@@ -41,6 +42,7 @@
     padding: 10px 20px;
     border-radius: 20px;
     margin: 0 20px;
+    text-decoration: none;
 }
 
 
