@@ -140,8 +140,8 @@ const Home = () => {
           </div>
           <img src={why} alt="" />
         </div>
-      </Section>
-    </>
+      </Section> 
+    </> 
   );
 };
 

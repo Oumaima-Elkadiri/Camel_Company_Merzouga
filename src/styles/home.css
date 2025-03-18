@@ -17,7 +17,7 @@
 .home-section img{
     flex: 1;
     width: 60%;
-    margin: 30px 0 70px 0;
+    margin: 70px  0;
 }
 .home-section h1{
     font-size: 70px;
@@ -156,33 +156,31 @@
 .why{
     background-color: #FF9200;
     color: white;
-    padding: 10px 70px;
-    margin: 20px 0;
+    padding: 10px 100px;
+    margin: 5px 0;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .why .text{
-    flex: 1;
+    flex: 0.7;
     text-align: left;
+    
 }
 .why h1{
     font-size: 30px;
     font-weight: bold;
     margin: 10px 0;
-    line-height: 80px;
 } 
 .why p{
-    font-size: 19px;
+    font-size: 17px;
     margin: 10px 0;
     line-height: 30px;
 }
 .why img{
-    width: 100px;
+    width: 400px;
     height: auto;
-    margin: 0 auto; /* Centrer les images horizontalement */
-    display: block;
-    flex: 1;
+    margin: 0 auto; 
 }
 
 /* --- Responsive Design --- */
@@ -259,15 +257,30 @@
         margin: 20px 0;
     }
     .why{
-        padding: 5px 20px;
+        padding: 10px;
+        margin: 5px 0;
+        justify-content: space-between;
+    }
+    .why .text{
+        flex: 2;
+        text-align: left;
+        padding: 0 50px;
     }
     .why h1{
-        font-size: 25px;
-        margin: 5px 0;
+        font-size: 30px;
+        font-weight: bold;
+        margin: 10px 0;
     } 
     .why p{
-        font-size: 13px;
-        margin: 5px 0;
+        font-size: 17px;
+        margin: 10px 0;
+        line-height: 30px;
+    }
+    .why img{
+        width: 50px;
+        height: auto;
+        margin: 0 auto; /* Centrer les images horizontalement */
+        flex: 1;
     }
     
 }
