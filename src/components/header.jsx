@@ -15,7 +15,7 @@ export default function Header() {
   return (
     <header>
       {/* Logo */}
-      <img src={logo} alt="Camel Company Merzouga" />
+      <Link to="/"><img src={logo} alt="Camel Company Merzouga" /></Link>
 
       {/* Navigation */}
       <nav>
