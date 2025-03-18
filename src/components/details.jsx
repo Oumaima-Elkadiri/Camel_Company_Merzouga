@@ -170,7 +170,7 @@ const Details = () => {
             </div>
           </AnimatedSection>
 
-          {/* Section Itinéraire */}
+          {/* Section  Itinéraire */}
           <AnimatedSection id="itinerary">
             <section className="itinerary-section">
               <h2>{t('titreIt', { ns: 'details' })}</h2>
