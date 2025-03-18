@@ -40,6 +40,11 @@ const Details = () => {
   const { item } = location.state || {};
   const { t, i18n } = useTranslation();
 
+  // Remonter en haut de la page à chaque changement d'URL
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
+
   if (!item) {
     return <div>No item selected</div>;
   }
@@ -170,7 +175,7 @@ const Details = () => {
             </div>
           </AnimatedSection>
 
-          {/* Section  Itinéraire */}
+          {/* Section Itinéraire */}
           <AnimatedSection id="itinerary">
             <section className="itinerary-section">
               <h2>{t('titreIt', { ns: 'details' })}</h2>

@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useTranslation } from "react-i18next";
 import "../i18n";
+import { useLocation } from "react-router-dom";
 import contact1 from '../assets/images/contact1.jpg';
 import contact2 from '../assets/images/contact2.jpg';
 import contact3 from '../assets/images/contact3.jpg';
@@ -11,11 +12,17 @@ import { useInView } from 'react-intersection-observer';
 
 const Contact = () => {
   const { t } = useTranslation(["contact"]);
+  const location = useLocation();
 
   // Numéro de téléphone et e-mail
   const phoneNumber1 = "+212652492025";
   const phoneNumber2 = "+212625658404";
   const email = "Hassansahara617@gmail.com";
+
+  // Remonter en haut de la page à chaque changement d'URL
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
 
   // Composant animé
   const AnimatedSection = ({ children, id }) => {

@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useTranslation } from "react-i18next";
 import "../i18n";
+import { useLocation } from "react-router-dom"; // Importez useLocation
 import '../styles/activities.css';
 import '../styles/about.css';
 import data from "../data.json";
@@ -10,6 +11,12 @@ import { useInView } from 'react-intersection-observer';
 
 const DayTrips = () => {
   const { t } = useTranslation(["dayTrips"]);
+  const location = useLocation(); // Utilisez useLocation pour surveiller les changements d'URL
+
+  // Remonter en haut de la page à chaque changement d'URL
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
 
   // Composant animé
   const AnimatedSection = ({ children, id }) => {

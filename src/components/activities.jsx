@@ -1,4 +1,5 @@
 import React, { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import { useTranslation } from "react-i18next";
 import "../i18n";
 import '../styles/activities.css';
@@ -10,7 +11,12 @@ import { useInView } from 'react-intersection-observer';
 
 const Activities = () => {
   const { t } = useTranslation(["activities"]);
+  const location = useLocation();
 
+  useEffect(() => {
+    // Remonter en haut de la page
+    window.scrollTo(0, 0);
+  }, [location.pathname]); // Déclencher à chaque changement d'URL
   // Composant animé
   const AnimatedSection = ({ children, id }) => {
     const controls = useAnimation();

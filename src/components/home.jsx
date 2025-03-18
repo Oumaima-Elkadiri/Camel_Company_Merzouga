@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
+import { useLocation } from 'react-router-dom'; // Importez useLocation
 import '../i18n';
 import home_section from '../assets/images/home-section.png';
 import service1 from '../assets/images/service1.png';
@@ -19,6 +20,7 @@ import { useInView } from 'react-intersection-observer';
 const Home = () => {
   const { t } = useTranslation(["slider", "nav", "services", "about", "why", "tours"]);
   const [mixedData, setMixedData] = useState([]);
+  const location = useLocation(); // Utilisez useLocation pour surveiller les changements d'URL
 
   // Fonction pour mélanger les données
   const getMixedData = () => {
@@ -33,6 +35,11 @@ const Home = () => {
     const data = getMixedData();
     setMixedData(data);
   }, []);
+
+  // Remonter en haut de la page à chaque changement d'URL
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.pathname]);
 
   // Composant Section avec animation
   const Section = ({ children, id }) => {

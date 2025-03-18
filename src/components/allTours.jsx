@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import { useTranslation } from "react-i18next";
 import "../i18n";
 import '../styles/activities.css';
@@ -11,6 +12,12 @@ import { useInView } from 'react-intersection-observer';
 
 const AllTours = () => {
   const { t } = useTranslation(["allTours"]);
+  const location = useLocation();
+
+  useEffect(() => {
+    // Remonter en haut de la page
+    window.scrollTo(0, 0);
+  }, [location.pathname]); // Déclencher à chaque changement d'URL
   const [selectedCategory, setSelectedCategory] = useState("FROM Marrakech");
 
   const categories = Object.keys(data.allTours);
