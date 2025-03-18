@@ -191,12 +191,13 @@
     .itinerary-section h3 {
       font-size: 16px; /* Réduit la taille des titres */
       margin: 20px; /* Réduit la marge */
+      line-height: 40px;
     }
   
     .itinerary-section .day {
       font-size: 20px; /* Réduit la taille de la police */
       padding: 8px 20px; /* Réduit le padding */
-      margin: 15px 15px 15px 0; /* Réduit la marge */
+      margin: 15px 15px 30px 0; /* Réduit la marge */
     }
   
     .itinerary-section ul,
