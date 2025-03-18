@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import "../i18n";
 import about from '../assets/images/about.jpg';
 import mission from '../assets/images/mission.PNG';
-import choose from '../assets/images/choose.jpg';
+import choose from '../assets/images/choose.JPG';
 import '../styles/about.css';
 import { Link } from "react-router-dom";
 import { motion, useAnimation } from 'framer-motion';
