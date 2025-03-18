@@ -1,0 +1,85 @@
+{
+    "titre": "Esplora il Marocco in un Giorno",
+    "titre2": "ESCURSIONI DI UN GIORNO",
+    "titre3": "Avventure Indimenticabili",
+    "text": "Vivi la magia del Marocco con le nostre escursioni di un giorno accuratamente selezionate. Dalle dune dorate del Sahara alle oasi lussureggianti e alle città vibranti, ogni viaggio offre uno sguardo unico sulla ricca cultura, storia e bellezza naturale di questo affascinante paese. Che tu stia cercando avventura, relax o immersione culturale, le nostre escursioni di un giorno hanno qualcosa per tutti.",
+    "cards": [
+      { 
+        "from": "DA Marrakech",
+        "titre": "Escursione di un giorno da Marrakech a Essaouira - Escursione da Marrakech",
+        "durre": "1 GIORNO",
+        "about": "Parti per un'escursione di un giorno da Marrakech a Essaouira, un'incantevole città costiera conosciuta per la sua atmosfera rilassata, la medina storica e le bellissime spiagge. Questa escursione offre un mix perfetto di cultura, storia e bellezza paesaggistica, rendendola una fuga ideale dalla vivace città di Marrakech.",
+        "Highlights": [
+          "Esplora la medina storica di Essaouira, patrimonio mondiale dell'UNESCO",
+          "Visita la Skala de la Ville, un'antica fortificazione sul mare",
+          "Passeggia nel vivace mercato del pesce e nel porto",
+          "Rilassati sulle splendide spiagge di Essaouira",
+          "Scopri l'artigianato locale e le gallerie d'arte"
+        ],
+        "Included": [
+          "Trasporto in un veicolo confortevole",
+          "Autista/guida che parla inglese/francese",
+          "Prelievo e rientro al tuo alloggio a Marrakech"
+        ],
+        "Excluded": [
+          "Pranzo e bevande",
+          "Spese personali",
+          "Mance"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Giorno 1:", "Marrakech - Essaouira - Marrakech"],
+            "liste": [
+              "Partenza di prima mattina da Marrakech",
+              "Pittoresco viaggio attraverso le foreste di alberi di argan",
+              "Arrivo a Essaouira e inizio della visita guidata",
+              "Visita alla Skala de la Ville e alla medina storica",
+              "Esplorazione del mercato del pesce e del porto",
+              "Pranzo in un ristorante locale (opzionale)",
+              "Tempo libero per rilassarsi sulla spiaggia o esplorare la città",
+              "Rientro a Marrakech in serata"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA Fes",
+        "titre": "Escursione di un giorno da Fes a Chefchaouen - Escursione da Fes",
+        "durre": "1 GIORNO",
+        "about": "Parti per un'escursione di un giorno da Fes a Chefchaouen, la famosa città blu situata tra le montagne del Rif. Conosciuta per le sue strade dipinte di blu, i mercati vivaci e l'atmosfera rilassata, Chefchaouen offre un'esperienza unica e indimenticabile. Questa escursione è perfetta per chi vuole esplorare il fascino e la bellezza di una delle destinazioni più iconiche del Marocco.",
+        "Highlights": [
+          "Esplora le strade dipinte di blu di Chefchaouen",
+          "Visita il Museo Kasbah e la Grande Moschea",
+          "Passeggia nei vivaci mercati locali",
+          "Goditi le viste panoramiche dalla Moschea Spagnola",
+          "Rilassati nell'atmosfera tranquilla della città"
+        ],
+        "Included": [
+          "Trasporto in un veicolo confortevole",
+          "Autista/guida che parla inglese/francese",
+          "Prelievo e rientro al tuo alloggio a Fes"
+        ],
+        "Excluded": [
+          "Pranzo e bevande",
+          "Spese personali",
+          "Mance"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Giorno 1:", "Fes - Chefchaouen - Fes"],
+            "liste": [
+              "Partenza di prima mattina da Fes",
+              "Pittoresco viaggio attraverso le montagne del Rif",
+              "Arrivo a Chefchaouen e inizio della visita guidata",
+              "Visita al Museo Kasbah e alla Grande Moschea",
+              "Passeggiata per le strade dipinte di blu e i mercati locali",
+              "Pranzo in un ristorante locale (opzionale)",
+              "Goditi le viste panoramiche dalla Moschea Spagnola",
+              "Tempo libero per esplorare la città a tuo piacimento",
+              "Rientro a Fes in serata"
+            ]
+          }
+        ]
+      }
+    ]
+  }

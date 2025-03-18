@@ -1,0 +1,165 @@
+/* styles/cardList.css */
+.card-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 colonnes de largeur égale */
+    gap: 30px; /* Espace entre les cartes */
+    padding: 20px; /* Espace autour de la grille */
+    justify-content: center; /* Centre les cartes horizontalement */
+    max-width: 1200px; /* Largeur maximale de la grille */
+    margin: 0 auto; /* Centre la grille dans son conteneur parent */
+}
+.card-list-home {
+  grid-template-columns: repeat(4, 1fr); /* 4 colonnes de largeur égale */
+  gap: 20px; /* Espace entre les cartes */
+  padding: 10px; /* Espace autour de la grille */
+  max-width: 1270px; /* Largeur maximale de la grille */
+  margin: 0 auto;
+}
+  .card {
+    background-color: #EDE1E1;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 50px;
+    overflow: hidden;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s;
+    width: 100%; /* Assurez-vous que les cartes occupent toute la largeur disponible */
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-image-container {
+    position: relative; /* Nécessaire pour positionner .card-from */
+  }
+  
+  .card-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+  }
+  
+  .card-from { 
+    position: absolute; /* Position absolue par rapport au conteneur */
+    bottom: 10px; /* Distance depuis le haut */
+    left: 10px; /* Distance depuis la gauche */
+    background-color: rgba(255, 255, 255, 0.8); /* Fond semi-transparent */
+    color: rgb(0, 0, 0); /* Couleur du texte */
+    padding: 6px 35px; /* Espacement interne */
+    border-radius: 4px; /* Coins arrondis */
+    font-size: 0.875rem; /* Taille du texte */
+    z-index: 10000; /* Assure que le texte est au-dessus de l'image */
+  }
+  
+  .card-from::before {
+    content: ''; /* Nécessaire pour afficher le pseudo-élément */
+    position: absolute;
+    left: 17px; /* Position du cercle par rapport au texte */
+    top: 50%; /* Centrer verticalement */
+    transform: translateY(-50%); /* Centrer verticalement */
+    width: 10px; /* Taille du cercle */
+    height: 10px; /* Taille du cercle */
+    background-color: #000; /* Couleur du cercle */
+    border-radius: 50%; /* Rend l'élément circulaire */
+  }
+  
+  .card-content {
+    padding: 16px;
+    text-align: left;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    height: 80px;
+    border-bottom: 1px solid #808080;
+  }
+  
+  .footerCard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+  }
+  
+  .card-duration,
+  .card-type {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Espace entre l'icône et le texte */
+    font-size: 0.875rem;
+    color: #666;
+  }
+  
+  .card-duration svg,
+  .card-type svg {
+    width: 16px;
+    height: 16px;
+  }
+  
+  .divider {
+    width: 1px; /* Largeur de la ligne */
+    height: 50px; /* Hauteur de la ligne */
+    background-color: #808080; /* Couleur de la ligne */
+    margin: 0 10px; /* Espace autour de la ligne */
+  }
+  
+  /* Styles pour les mobiles (écrans de largeur maximale de 768px) */
+  @media (max-width: 768px) {
+    .card-list {
+      grid-template-columns: repeat(1, 1fr); /* 1 colonne pour les mobiles */
+      gap: 20px; /* Espace réduit entre les cartes */
+      padding: 30px; /* Padding réduit */
+    }
+  
+    .card {
+      margin: 5px; /* Marge réduite */
+      border-radius: 30px; /* Coins moins arrondis */
+    }
+  
+    .card-image {
+      height: 200px; /* Hauteur réduite de l'image */
+    }
+  
+    .card-from {
+      bottom: 5px; /* Position ajustée */
+      left: 5px; /* Position ajustée */
+      padding: 5px 25px; /* Padding réduit */
+      font-size: 0.75rem; /* Taille de texte réduite */
+    }
+  
+    .card-from::before {
+      left: 12px; /* Position ajustée du cercle */
+      width: 8px; /* Taille réduite du cercle */
+      height: 8px; /* Taille réduite du cercle */
+    }
+  
+    .card-content {
+      padding: 10px; /* Padding réduit */
+    }
+  
+    .card-title {
+      font-size: 1rem; /* Taille de texte réduite */
+      height: 80px; /* Hauteur réduite */
+    }
+  
+    .footerCard {
+      padding: 5px 20px; /* Padding réduit */
+    }
+  
+    .card-duration,
+    .card-type {
+      font-size: 0.75rem; /* Taille de texte réduite */
+    }
+  
+    .card-duration svg,
+    .card-type svg {
+      width: 14px; /* Taille réduite des icônes */
+      height: 14px; /* Taille réduite des icônes */
+    }
+  
+    .divider {
+      height: 20px; /* Hauteur réduite de la ligne */
+    }
+  }

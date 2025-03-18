@@ -1,0 +1,85 @@
+{
+    "titre": "Explore Morocco in a Day",
+    "titre2": "DAY TRIPS",
+    "titre3": "Unforgettable Adventures",
+    "text": "Experience the magic of Morocco with our carefully curated day trips. From the golden dunes of the Sahara to the lush oases and vibrant cities, each trip offers a unique glimpse into the rich culture, history, and natural beauty of this enchanting country. Whether you're seeking adventure, relaxation, or cultural immersion, our day trips have something for everyone.",
+    "cards": [
+      { 
+        "from": "FROM Marrakech",
+        "titre": "Day Trip from Marrakech to Essaouira - Marrakech Excursion",
+        "durre": "1 DAY",
+        "about": "Embark on a day trip from Marrakech to Essaouira, a charming coastal city known for its relaxed atmosphere, historic medina, and beautiful beaches. This excursion offers a perfect blend of culture, history, and scenic beauty, making it an ideal getaway from the bustling city of Marrakech.",
+        "Highlights": [
+          "Explore the historic medina of Essaouira, a UNESCO World Heritage site",
+          "Visit the Skala de la Ville, a historic seafront rampart",
+          "Stroll through the vibrant fish market and the port",
+          "Relax on the beautiful beaches of Essaouira",
+          "Discover the local crafts and art galleries"
+        ],
+        "Included": [
+          "Transport in a comfortable vehicle",
+          "English/French-speaking driver/guide",
+          "Pickup and drop-off at your accommodation in Marrakech"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - Essaouira - Marrakech"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Scenic drive through the Argan tree forests",
+              "Arrival in Essaouira and start of the guided tour",
+              "Visit the Skala de la Ville and the historic medina",
+              "Explore the fish market and the port",
+              "Lunch in a local restaurant (optional)",
+              "Free time to relax on the beach or explore the city",
+              "Return to Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Fes",
+        "titre": "Day Trip from Fes to Chefchaouen - Fes Excursion",
+        "durre": "1 DAY",
+        "about": "Embark on a day trip from Fes to Chefchaouen, the famous blue city nestled in the Rif Mountains. Known for its picturesque blue-painted streets, vibrant markets, and relaxed atmosphere, Chefchaouen offers a unique and unforgettable experience. This excursion is perfect for those looking to explore the charm and beauty of one of Morocco's most iconic destinations.",
+        "Highlights": [
+          "Explore the blue-painted streets of Chefchaouen",
+          "Visit the Kasbah Museum and the Grand Mosque",
+          "Stroll through the vibrant local markets",
+          "Enjoy the panoramic views from the Spanish Mosque",
+          "Relax in the peaceful atmosphere of the city"
+        ],
+        "Included": [
+          "Transport in a comfortable vehicle",
+          "English/French-speaking driver/guide",
+          "Pickup and drop-off at your accommodation in Fes"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Chefchaouen - Fes"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Scenic drive through the Rif Mountains",
+              "Arrival in Chefchaouen and start of the guided tour",
+              "Visit the Kasbah Museum and the Grand Mosque",
+              "Stroll through the blue-painted streets and local markets",
+              "Lunch in a local restaurant (optional)",
+              "Enjoy panoramic views from the Spanish Mosque",
+              "Free time to explore the city at your own pace",
+              "Return to Fes in the evening"
+            ]
+          }
+        ]
+      }
+    ]
+  }

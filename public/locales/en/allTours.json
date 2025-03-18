@@ -1,0 +1,1428 @@
+{
+    "titre": "Explore Our Tours",
+    "titre2": "ALL TOURS", 
+    "titre3": "Adventure Awaits",
+    "text": "Embark on unforgettable journeys across Morocco with our expertly curated tours. From the majestic Atlas Mountains to the golden dunes of the Sahara, our tours offer a perfect blend of adventure, culture, and relaxation.",
+    "categories": {
+      "FROM Marrakech": "FROM Marrakech",
+      "FROM Fes": "FROM Fes",
+      "FROM Casablanca": "FROM Casablanca",
+      "FROM Chefchaouen": "FROM Chefchaouen"
+    },
+    "cards": [
+      {
+        "from": "FROM Marrakech",
+        "titre": "2 day Tour from Marrakech to Zagora Desert",
+        "durre": "2 Days/ 1 Night",
+        "about": "Explore the beauty of the Moroccan desert on this 2-day tour from Marrakech to Zagora. Experience the stunning landscapes, traditional Berber villages, and the magic of the Sahara Desert.",
+        "Highlights": [
+          "Cross the High Atlas Mountains",
+          "Visit Ait Benhaddou, a UNESCO World Heritage site",
+          "Explore the Draa Valley and its palm groves",
+          "Spend a night in a desert camp under the stars"
+        ],
+        "Included": [
+          "Transport in a comfortable vehicle",
+          "English/French speaking driver/guide",
+          "Overnight accommodation in a desert camp",
+          "Dinner and breakfast",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - Ait Benhaddou - Ouarzazate - Zagora"],
+            "liste": [
+              "Departure from Marrakech early in the morning",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue through the Draa Valley to Zagora",
+              "Arrive at the desert camp, enjoy a camel ride and watch the sunset",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Zagora - Marrakech"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Return journey to Marrakech via the Draa Valley and High Atlas Mountains",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "2 days Tour Marrakech to Fes via Merzouga Desert",
+        "durre": "2 Days / 1 Night",
+        "about": "Embark on a 2-day desert adventure from Marrakech to Fes, crossing the majestic Atlas Mountains, exploring the Sahara Desert, and experiencing the unique culture of Morocco. This tour offers a mix of stunning landscapes, historical sites, and unforgettable desert experiences.",
+        "Highlights": [
+          "Cross the High Atlas Mountains",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the stunning Ziz Valley",
+          "Experience a night in a desert camp under the stars",
+          "Discover the Middle Atlas Mountains on the way to Fes"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "Overnight accommodation in a desert camp",
+          "Dinner and breakfast",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Merzouga Desert"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate or along the way",
+              "Continue through the Draa Valley and the Ziz Valley",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga Desert - Middle Atlas Mountains - Fes"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Drive through the Middle Atlas Mountains, passing through Erfoud and Midelt",
+              "Lunch in Midelt or along the way",
+              "Continue to Fes, passing through the cedar forests of Azrou",
+              "Arrival in Fes in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "2 days Desert Tour from Marrakech to Marrakech",
+        "durre": "2 Days / 1 Night",
+        "about": "Experience the magic of the Sahara Desert on this 2-day tour from Marrakech to Merzouga. Cross the High Atlas Mountains, visit traditional Berber villages, and spend a night under the stars in a desert camp. This tour offers a perfect blend of adventure, culture, and breathtaking landscapes.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Enjoy a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "Overnight accommodation in a desert camp",
+          "Dinner and breakfast",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Merzouga"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate or along the way",
+              "Continue through the Draa Valley, passing through Agdez and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga - Marrakech"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey back to Marrakech, passing through the Draa Valley and High Atlas Mountains",
+              "Lunch in Ouarzazate or along the way",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "3 days Desert Trip from Marrakech to Merzouga",
+        "durre": "3 Days / 2 Nights",
+        "about": "Embark on a 3-day desert adventure from Marrakech to Merzouga, exploring the stunning landscapes of the High Atlas Mountains, the Draa Valley, and the Sahara Desert. This tour offers a mix of cultural experiences, breathtaking scenery, and unforgettable moments under the stars.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Dades Valley"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "2 nights of accommodation (1 in a hotel, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga - Draa Valley - Ouarzazate - Marrakech"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey back to Marrakech, passing through the Draa Valley and Ouarzazate",
+              "Lunch in Ouarzazate or along the way",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "3 days Desert Trip from Marrakech to Fes",
+        "durre": "3 Days / 2 Nights",
+        "about": "Discover the beauty of the Sahara Desert on this 3-day tour from Fes to Merzouga. Cross the Middle Atlas Mountains, explore the Ziz Valley, and experience the magic of the Erg Chebbi dunes. This tour offers a perfect blend of adventure, culture, and breathtaking landscapes.",
+        "Highlights": [
+          "Cross the Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Explore the Ziz Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "2 nights of accommodation (1 in a hotel, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga - Rissani - Erfoud - Fes"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Begin the journey back to Fes, passing through the Ziz Valley and Middle Atlas Mountains",
+              "Lunch in Midelt or along the way",
+              "Arrival in Fes in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "4 days Trip from Marrakech to Merzouga",
+        "durre": "4 Days / 3 Nights",
+        "about": "Embark on a 4-day desert adventure from Marrakech to the Sahara Desert and back. This tour takes you through the High Atlas Mountains, the Draa Valley, and the stunning Erg Chebbi dunes. Experience the magic of the desert, traditional Berber culture, and breathtaking landscapes.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Dades Valley"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "3 nights of accommodation (2 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga - Draa Valley - Ouarzazate - Marrakech"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey back to Marrakech, passing through the Draa Valley and Ouarzazate",
+              "Lunch in Ouarzazate or along the way",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "4 days Trip from Marrakech to Fes via Merzouga",
+        "durre": "4 Days / 3 Nights",
+        "about": "Experience the magic of the Sahara Desert on this 4-day tour from Marrakech to Fes. Cross the High Atlas Mountains, explore the Draa Valley, and spend a night under the stars in a desert camp. This tour offers a perfect blend of adventure, culture, and breathtaking landscapes.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Ziz Valley"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "3 nights of accommodation (2 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga - Ziz Valley - Midelt - Fes"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey to Fes, passing through the Ziz Valley and Midelt",
+              "Lunch in Midelt or along the way",
+              "Continue through the Middle Atlas Mountains, passing through Ifrane",
+              "Arrival in Fes in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "5 days Desert Tour from Marrakech to Merzouga",
+        "durre": "5 Days / 4 Nights",
+        "about": "Experience the magic of the Sahara Desert on this 4-day tour from Marrakech to Fes. Cross the High Atlas Mountains, explore the Draa Valley, and spend a night under the stars in a desert camp. This tour offers a perfect blend of adventure, culture, and breathtaking landscapes.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Ziz Valley"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "3 nights of accommodation (2 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga - Ziz Valley - Midelt - Fes"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey to Fes, passing through the Ziz Valley and Midelt",
+              "Lunch in Midelt or along the way",
+              "Continue through the Middle Atlas Mountains, passing through Ifrane",
+              "Arrival in Fes in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "5 days Desert Trip from Marrakech to Fes",
+        "durre": "5 Days / 4 Nights",
+        "about": "Embark on a 5-day desert adventure from Marrakech to Fes, exploring the stunning landscapes of the High Atlas Mountains, the Draa Valley, and the Sahara Desert. This tour offers a mix of cultural experiences, breathtaking scenery, and unforgettable moments under the stars.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Ziz Valley",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "4 nights of accommodation (3 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga - Ziz Valley - Midelt - Ifrane - Fes"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey to Fes, passing through the Ziz Valley and Midelt",
+              "Lunch in Midelt or along the way",
+              "Continue through the Middle Atlas Mountains, passing through Ifrane",
+              "Arrival in Fes in the evening"
+            ]
+          },
+          {
+            "titre": ["Day 5:", "Fes City Tour"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Guided tour of Fes, including the medina, Bou Inania Madrasa, and the tanneries",
+              "Lunch in a local restaurant",
+              "Free time to explore the city",
+              "End of the tour in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "5 days from Marrakech to Marrakech Desert Tour",
+        "durre": "5 Days / 4 Nights",
+        "about": "Embark on a 5-day desert adventure from Marrakech, exploring the stunning landscapes of the High Atlas Mountains, the Draa Valley, and the Sahara Desert. This tour offers a mix of cultural experiences, breathtaking scenery, and unforgettable moments under the stars, with a return to Marrakech at the end.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Dades Valley"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "4 nights of accommodation (3 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga - Draa Valley - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey back to Marrakech, passing through the Draa Valley and Ouarzazate",
+              "Lunch in Ouarzazate or along the way",
+              "Visit Ait Benhaddou again for a short stop",
+              "Continue to Marrakech via the High Atlas Mountains",
+              "Arrival in Marrakech in the evening"
+            ]
+          },
+          {
+            "titre": ["Day 5:", "Marrakech City Tour"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Guided tour of Marrakech, including the Koutoubia Mosque, Bahia Palace, and Jemaa el-Fnaa square",
+              "Lunch in a local restaurant",
+              "Free time to explore the city",
+              "End of the tour in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Marrakech",
+        "titre": "9 days Tour from Marrakech to Zagora / Erg Chegaga",
+        "durre": "9 Days / 8 Nights",
+        "about": "Embark on a 9-day adventure from Marrakech to the Zagora Desert, exploring the diverse landscapes of Morocco. This tour takes you through the High Atlas Mountains, the Draa Valley, the Sahara Desert, and the coastal city of Essaouira. Experience the rich culture, history, and natural beauty of Morocco on this unforgettable journey.",
+        "Highlights": [
+          "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou",
+          "Explore the Draa Valley and its palm groves",
+          "Experience a camel ride in the Zagora Desert",
+          "Spend a night in a desert camp under the stars",
+          "Discover the Todra Gorge and Dades Valley",
+          "Visit the coastal city of Essaouira"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "8 nights of accommodation (7 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Marrakech - High Atlas Mountains - Ait Benhaddou - Ouarzazate"],
+            "liste": [
+              "Early morning departure from Marrakech",
+              "Cross the Tizi n'Tichka pass (2260m) in the High Atlas Mountains",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Dinner and overnight in a hotel in Ouarzazate"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Ouarzazate - Draa Valley - Zagora Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Explore the Draa Valley and its palm groves",
+              "Lunch in Agdez or along the way",
+              "Continue to Zagora, the gateway to the Sahara Desert",
+              "Enjoy a camel ride to the desert camp",
+              "Watch the sunset over the dunes",
+              "Dinner and overnight in a desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Zagora Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Zagora area, including a visit to a nomadic family",
+              "Lunch in Zagora",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Zagora - Draa Valley - Ouarzazate - Dades Valley"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Zagora by camel or 4x4",
+              "Begin the journey to the Dades Valley, passing through the Draa Valley and Ouarzazate",
+              "Lunch in Ouarzazate or along the way",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 5:", "Dades Valley - Todra Gorge - Merzouga Desert"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Merzouga via Erfoud and Rissani",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 6:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 7:", "Merzouga - Draa Valley - Ouarzazate - Marrakech"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Begin the journey back to Marrakech, passing through the Draa Valley and Ouarzazate",
+              "Lunch in Ouarzazate or along the way",
+              "Continue to Marrakech via the High Atlas Mountains",
+              "Arrival in Marrakech in the evening"
+            ]
+          },
+          {
+            "titre": ["Day 8:", "Marrakech - Essaouira"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Departure for Essaouira, a charming coastal city",
+              "Explore Essaouira, including the medina, the port, and the beach",
+              "Lunch in a local restaurant",
+              "Free time to relax or explore the city",
+              "Dinner and overnight in a hotel in Essaouira"
+            ]
+          },
+          {
+            "titre": ["Day 9:", "Essaouira - Marrakech"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Free time to explore Essaouira in the morning",
+              "Lunch in Essaouira",
+              "Return to Marrakech in the afternoon",
+              "Arrival in Marrakech in the evening",
+              "End of the tour"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Fes",
+        "titre": "2 days Desert Trips from Fes to Merzouga",
+        "durre": "2 Days / 1 Night",
+        "about": "Embark on a 2-day desert adventure from Fes to Merzouga, exploring the stunning landscapes of the Middle Atlas Mountains, the Ziz Valley, and the Sahara Desert. This tour offers a perfect blend of adventure, culture, and breathtaking scenery, with a night under the stars in a desert camp.",
+        "Highlights": [
+          "Cross the Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Explore the Ziz Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "1 night of accommodation in a desert camp",
+          "Dinner and breakfast",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga - Rissani - Erfoud - Fes"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Begin the journey back to Fes, passing through the Ziz Valley and Middle Atlas Mountains",
+              "Lunch in Midelt or along the way",
+              "Arrival in Fes in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Fes",
+        "titre": "3 days Tour from Fes to Marrakech via Merzouga",
+        "durre": "3 Days / 2 Nights",
+        "about": "Embark on a 3-day desert adventure from Fes to Marrakech, exploring the stunning landscapes of the Middle Atlas Mountains, the Ziz Valley, and the Sahara Desert. This tour offers a perfect blend of adventure, culture, and breathtaking scenery, with a night under the stars in a desert camp.",
+        "Highlights": [
+          "Cross the Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Explore the Ziz Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Draa Valley and the High Atlas Mountains"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "2 nights of accommodation (1 in a hotel, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga - Rissani - Erfoud - Todra Gorge - Dades Valley"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Continue to the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Dades Valley - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Fes",
+        "titre": "3 days Desert Tour from Fes to Merzouga",
+        "durre": "3 Days / 2 Nights",
+        "about": "Embark on a 3-day desert adventure from Fes, exploring the stunning landscapes of the Middle Atlas Mountains, the Ziz Valley, and the Sahara Desert. This tour offers a perfect blend of adventure, culture, and breathtaking scenery, with a night under the stars in a desert camp, before returning to Fes.",
+        "Highlights": [
+          "Cross the Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Explore the Ziz Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "2 nights of accommodation (1 in a hotel, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga - Rissani - Erfoud - Ziz Valley - Fes"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Begin the journey back to Fes, passing through the Ziz Valley and Middle Atlas Mountains",
+              "Lunch in Midelt or along the way",
+              "Arrival in Fes in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Fes",
+        "titre": "4 days Desert Trip from Fes to Marrakech",
+        "durre": "4 Days / 3 Nights",
+        "about": "Embark on a 4-day desert adventure from Fes to Marrakech, exploring the stunning landscapes of the Middle Atlas Mountains, the Ziz Valley, and the Sahara Desert. This tour offers a perfect blend of adventure, culture, and breathtaking scenery, with a night under the stars in a desert camp and a visit to nomadic communities.",
+        "Highlights": [
+          "Cross the Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Explore the Ziz Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Visit nomadic communities and learn about their way of life",
+          "Discover the Todra Gorge and Dades Valley"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "3 nights of accommodation (2 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga - Rissani - Todra Gorge - Dades Valley"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Continue to the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Dades Valley - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Fes",
+        "titre": "5 days Trip from Fes to Marrakech via Merzouga",
+        "durre": "5 Days / 4 Nights",
+        "about": "Embark on a 5-day adventure from Fes to Marrakech, exploring the stunning landscapes of the Middle Atlas Mountains, the Ziz Valley, the Sahara Desert, and the Todra Gorge. This tour offers a perfect blend of adventure, culture, and breathtaking scenery, with a night under the stars in a desert camp.",
+        "Highlights": [
+          "Cross the Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Explore the Ziz Valley and its palm groves",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Dades Valley",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "4 nights of accommodation (3 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga - Rissani - Todra Gorge - Dades Valley"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Continue to the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Dades Valley - Ouarzazate - Ait Benhaddou"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Free time to explore Ouarzazate",
+              "Dinner and overnight in a hotel in Ouarzazate"
+            ]
+          },
+          {
+            "titre": ["Day 5:", "Ouarzazate - High Atlas Mountains - Marrakech"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+              "Lunch in a local restaurant along the way",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Casablanca",
+        "titre": "6 days Tour from Casablanca to Marrakech",
+        "durre": "6 Days / 5 Nights",
+        "about": "Embark on a 6-day adventure from Casablanca to Marrakech, exploring the diverse landscapes of Morocco. This tour takes you through the imperial cities of Rabat and Fes, the Middle Atlas Mountains, the Sahara Desert, and the stunning Todra Gorge. Experience the rich culture, history, and natural beauty of Morocco on this unforgettable journey.",
+        "Highlights": [
+          "Visit the Hassan II Mosque in Casablanca",
+          "Explore the imperial cities of Rabat and Fes",
+          "Cross the Middle Atlas Mountains",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Dades Valley",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "5 nights of accommodation (4 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Casablanca - Rabat - Fes"],
+            "liste": [
+              "Arrival in Casablanca and visit the Hassan II Mosque",
+              "Departure for Rabat, the capital of Morocco",
+              "Visit the Royal Palace, the Hassan Tower, and the Chellah Necropolis",
+              "Lunch in Rabat",
+              "Continue to Fes",
+              "Dinner and overnight in a hotel in Fes"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Fes City Tour"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Guided tour of Fes, including the medina, Bou Inania Madrasa, and the tanneries",
+              "Lunch in a local restaurant",
+              "Free time to explore the city",
+              "Dinner and overnight in a hotel in Fes"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 5:", "Merzouga - Rissani - Todra Gorge - Dades Valley"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Continue to the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 6:", "Dades Valley - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Casablanca",
+        "titre": "8 days Imperial Cities & Merzouga Sahara Desert",
+        "durre": "8 Days / 7 Nights",
+        "about": "Embark on an 8-day adventure through Morocco, exploring the imperial cities, the Sahara Desert, and the stunning gorges. This tour takes you through Rabat, Fes, Merzouga, Todra Gorge, Dades Valley, Ouarzazate, and Marrakech. Experience the rich culture, history, and natural beauty of Morocco on this unforgettable journey.",
+        "Highlights": [
+          "Visit the imperial cities of Rabat, Fes, and Marrakech",
+          "Cross the Middle Atlas Mountains",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp",
+          "Discover the Todra Gorge and Dades Valley",
+          "Visit the UNESCO World Heritage site of Ait Benhaddou"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "7 nights of accommodation (6 in hotels, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Casablanca - Rabat - Fes"],
+            "liste": [
+              "Arrival in Casablanca and visit the Hassan II Mosque",
+              "Departure for Rabat, the capital of Morocco",
+              "Visit the Royal Palace, the Hassan Tower, and the Chellah Necropolis",
+              "Lunch in Rabat",
+              "Continue to Fes",
+              "Dinner and overnight in a hotel in Fes"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Fes City Tour"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Guided tour of Fes, including the medina, Bou Inania Madrasa, and the tanneries",
+              "Lunch in a local restaurant",
+              "Free time to explore the city",
+              "Dinner and overnight in a hotel in Fes"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Fes - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Fes",
+              "Cross the Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 4:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 5:", "Merzouga - Rissani - Todra Gorge - Dades Valley"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Continue to the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to the Dades Valley via the Roses Valley",
+              "Dinner and overnight in a hotel in the Dades Valley"
+            ]
+          },
+          {
+            "titre": ["Day 6:", "Dades Valley - Ouarzazate - Ait Benhaddou"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Visit the UNESCO World Heritage site of Ait Benhaddou",
+              "Lunch in Ouarzazate",
+              "Free time to explore Ouarzazate",
+              "Dinner and overnight in a hotel in Ouarzazate"
+            ]
+          },
+          {
+            "titre": ["Day 7:", "Ouarzazate - High Atlas Mountains - Marrakech"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Cross the High Atlas Mountains via the Tizi n'Tichka pass",
+              "Lunch in a local restaurant along the way",
+              "Arrival in Marrakech in the evening",
+              "Dinner and overnight in a hotel in Marrakech"
+            ]
+          },
+          {
+            "titre": ["Day 8:", "Marrakech City Tour"],
+            "liste": [
+              "Breakfast at the hotel",
+              "Guided tour of Marrakech, including the Koutoubia Mosque, Bahia Palace, and Jemaa el-Fnaa square",
+              "Lunch in a local restaurant",
+              "Free time to explore the city",
+              "End of the tour"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "FROM Chefchaouen",
+        "titre": "3 Days Desert Tour from Chefchaouen to Marrakech",
+        "durre": "3 Days / 2 Nights",
+        "about": "Embark on a 3-day desert adventure from Chefchaouen to Marrakech, exploring the stunning landscapes of the Rif Mountains, the Middle Atlas Mountains, and the Sahara Desert. This tour offers a perfect blend of adventure, culture, and breathtaking scenery, with a night under the stars in a desert camp.",
+        "Highlights": [
+          "Explore the blue city of Chefchaouen",
+          "Cross the Rif and Middle Atlas Mountains",
+          "Visit the charming town of Ifrane and the cedar forests of Azrou",
+          "Experience a camel ride in the Merzouga dunes",
+          "Spend a night in a luxury desert camp"
+        ],
+        "Included": [
+          "Transport in a comfortable 4x4 or minivan",
+          "English/French-speaking driver/guide",
+          "2 nights of accommodation (1 in a hotel, 1 in a desert camp)",
+          "Dinners and breakfasts",
+          "Camel ride in the desert"
+        ],
+        "Excluded": [
+          "Lunch and drinks",
+          "Personal expenses",
+          "Tips"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Day 1:", "Chefchaouen - Ifrane - Azrou - Midelt - Ziz Valley - Merzouga"],
+            "liste": [
+              "Early morning departure from Chefchaouen",
+              "Cross the Rif and Middle Atlas Mountains, passing through Ifrane (known as 'Little Switzerland')",
+              "Visit the cedar forests of Azrou and see the Barbary macaques",
+              "Lunch in Midelt",
+              "Continue through the Ziz Valley, famous for its palm groves and stunning landscapes",
+              "Arrive in Merzouga, enjoy a camel ride to the desert camp",
+              "Watch the sunset over the Erg Chebbi dunes",
+              "Dinner and overnight in a luxury desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 2:", "Merzouga Desert Exploration"],
+            "liste": [
+              "Early morning sunrise in the desert",
+              "Breakfast at the camp",
+              "Explore the Merzouga area, including a visit to a nomadic family",
+              "Visit the village of Khamlia to experience Gnawa music",
+              "Lunch in Merzouga",
+              "Free time to relax or explore the dunes",
+              "Dinner and overnight in the desert camp"
+            ]
+          },
+          {
+            "titre": ["Day 3:", "Merzouga - Rissani - Erfoud - Todra Gorge - Dades Valley - Ouarzazate - Marrakech"],
+            "liste": [
+              "Breakfast at the camp",
+              "Return to Merzouga by camel or 4x4",
+              "Visit the market town of Rissani and the fossil workshops in Erfoud",
+              "Continue to the Todra Gorge and enjoy some free time to explore",
+              "Lunch in Tinghir or along the way",
+              "Continue to Marrakech via the Dades Valley, Ouarzazate, and the High Atlas Mountains",
+              "Arrival in Marrakech in the evening"
+            ]
+          }
+        ]
+      }
+    ]
+}
+  

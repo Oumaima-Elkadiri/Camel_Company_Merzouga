@@ -1,0 +1,11 @@
+.textActivities{
+    text-align: center;
+    font-size: 20px;
+    padding: 80px 90px;
+}
+@media (max-width: 768px) {
+    .textActivities{
+        font-size: 18px;
+        padding: 60px 40px;
+    }
+}

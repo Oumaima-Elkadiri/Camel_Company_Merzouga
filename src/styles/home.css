@@ -1,0 +1,269 @@
+.home-section {
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    width: 100%;
+    height: auto; /* Ajustez la hauteur selon vos besoins */
+    color: black;
+    background-image: url("../assets/images/avion_back.png");
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 120px;
+}  
+.home-section .content{
+    flex: 1;
+    padding-left: 140px;
+    margin-top: 30px;
+}
+.home-section img{
+    flex: 1;
+    width: 60%;
+    margin: 30px 0 70px 0;
+}
+.home-section h1{
+    font-size: 70px;
+    font-weight: bolder;
+    color: #6D3620;
+    text-shadow: 3px 3px 2px rgba(63, 63, 63, 0.6);
+    line-height: 1;
+    margin: 20px 0;
+}
+.home-section h2{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.home-section p{
+    font-size: 15px;
+    margin-bottom: 35px;
+}
+.home-section a{
+    color: white;
+    background-color: #6D3620;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 0 20px;
+}
+
+
+.services {
+    position: relative;
+    color: black;
+    display: flex;
+    border-top: 1px solid black;
+    padding: 15px 40px;
+}
+.service{
+    flex: 1;
+    padding: 10px 30px;
+    text-align: center;
+}
+.service img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto; /* Centrer les images horizontalement */
+    display: block;
+}
+
+.about{
+    margin-top: 50px;
+    padding: 15px 0px;
+}
+.about h1{
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 10px 60px;
+}
+.about .content_about{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    background-color: rgb(230, 228, 228);
+    padding: 0 60px;
+}
+.about .info{
+    flex: 1;
+    text-align: left;
+    padding: 40px 0;
+}
+.about .info h3{
+    font-size: 17px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+.about .info p{
+    font-size: 15px;
+    margin: 15px 0;
+}
+.about .info a{
+    display: inline-block;
+    background-color: #6D3620;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 10px;
+    box-shadow: 2px 2px 4px rgba(63, 63, 63, 0.767);
+    transition: all 0.3s ease;
+}
+.about .info a:hover{
+    font-size: 17px;
+}
+.about .img{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+}
+.about .img1{
+    position: relative;
+    width: 75%;
+    z-index: 2;
+    margin-top: 50px;
+}
+.about .img2{
+    width: 40%;
+    z-index: 1;
+    position: absolute;
+    top: -50px;
+    right: -15px;
+}
+
+.tours{
+    text-align: center;
+    margin: 20px 0;
+}
+.tours h1{
+    font-size: 40px;
+    font-weight: bolder;
+    word-spacing: 10px;
+    margin: 30px 0;
+}
+.tours h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+.tours .color{
+    color: #B85C01;
+}
+.mix {
+    margin: 40px 0;
+}
+.why{
+    background-color: #FF9200;
+    color: white;
+    padding: 10px 50px;
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.why .text{
+    flex: 1;
+    text-align: left;
+}
+.why h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 10px 0;
+} 
+.why p{
+    font-size: 17px;
+    margin: 10px 0;
+}
+.why img{
+    width: 100px;
+    height: auto;
+    margin: 0 auto; /* Centrer les images horizontalement */
+    display: block;
+    flex: 1;
+}
+
+/* --- Responsive Design --- */
+@media screen and (max-width: 768px) {
+    .home-section {
+        align-items: center;
+        background-image: none;
+    }
+    .home-section .content{
+        padding-left: 20px;
+        margin-top: 5px;
+    }
+    .home-section img{
+        width: 50%;
+        margin-top: 5px;
+    }
+    .home-section h1{
+        font-size: 23px;
+        margin: 10px 0;
+    }
+    .home-section h2{
+        font-size: 16px;
+    }
+    .home-section p{
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+    .home-section a{
+        padding: 8px 10px;
+        margin: 0px;
+        font-size: 12px;
+    }
+
+    .services {
+        flex-direction: column;
+        margin-top: 30px;
+    }
+
+    .content_about {
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+    .about h1{
+        font-size: 25px;
+    }
+    .about .info{
+        text-align: center;
+    }
+    .about .img {
+        flex-direction: row;
+        justify-content: center;
+    }
+    .about .img1{
+        width: 80%;
+    }
+    .about .img2{
+        width: 45%;
+        top: -5px;
+    }
+    .tours{
+        margin: 10px 5px;
+    }
+    .tours h1{
+        font-size: 30px;
+        font-weight: bold;
+        word-spacing: 5px;
+        margin: 20px 0;
+    }
+    .tours h2{
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .mix {
+        margin: 20px 0;
+    }
+    .why{
+        padding: 5px 20px;
+    }
+    .why h1{
+        font-size: 25px;
+        margin: 5px 0;
+    } 
+    .why p{
+        font-size: 13px;
+        margin: 5px 0;
+    }
+    
+}

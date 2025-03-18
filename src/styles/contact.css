@@ -1,0 +1,227 @@
+.slider_contact{
+    background-image: url('../assets/images/back.PNG');
+    text-align: center;
+    margin-top: 120px;
+    padding: 30px 0;
+}
+.slider_contact h1{ 
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+.slider_contact h2{
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    letter-spacing: 5px;
+}
+.slider_contact h3{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.contact_top{
+    text-align: center;
+    font-size: 20px;
+    margin: 50px 0;
+}
+.contact_top h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+.social_contact{
+    text-align: center;
+    margin: 30px 0;
+}
+.social_contact h3{
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+.img_contact{
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+.social{
+    flex:1;
+}
+.social a{
+    text-decoration: none;
+    color: black;
+}
+.social img{
+    width: 400px;
+    border-radius: 50px;
+    box-shadow: 8px 5px 8px rgba(0, 0, 0, 0.5);
+    transition: 0.5s;
+}
+.social img:hover{
+    transform: scale(1.03);
+    transition: 0.5s;
+}
+.social p{
+    font-size: 20px;
+    margin: 20px 0;
+    letter-spacing: 2px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+.social_contact .social p svg {
+    font-size: 24px; 
+}
+.msg_contact{
+    text-align: center;
+    margin: 50px 0;
+}
+.msg_contact h3{
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.msg_contact ul {
+    font-size: 18px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column; /* Afficher les éléments en colonne */
+    align-items: center; /* Centrer la liste horizontalement */
+    padding: 0;
+}
+
+.msg_contact ul li {
+    text-align: left; /* Aligner le texte à gauche */
+    list-style: none; /* Désactiver le style de puce par défaut */
+    margin: 0 0 0 200px; 
+    width: 100%; 
+    max-width: 600px; 
+    padding-left: 6px; /* Ajouter un espace pour l'image */
+    position: relative; /* Position relative pour l'image */
+}
+
+.msg_contact ul li::before {
+    content: ""; /* Ajouter un contenu vide */
+    display: inline-block; /* Afficher en ligne */
+    width: 10px; /* Largeur de l'image */
+    height: 10px; /* Hauteur de l'image */
+    background-image: url('../assets/images/plus.png'); /* Chemin de l'image */
+    background-size: cover; /* Ajuster la taille de l'image */
+    position: absolute; /* Position absolue pour placer l'image */
+    left: -15px; /* Ajuster la position horizontale */
+    top: 50%; /* Centrer verticalement */
+    transform: translateY(-50%); /* Ajuster le centrage vertical */
+}
+
+.footer_contact{
+    padding: 20px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+.footer_contact .footer1 p{
+    display: flex;
+    margin: 5px 0;
+    font-size: 17px;
+}
+.footer_contact .footer2 p{
+    display: flex;
+    font-size: 17px;
+}
+.footer_contact .phone{
+    text-decoration: underline;
+}
+.icon {
+    margin-right: 10px; /* Espace entre l'icône et le texte */
+}
+
+.footer_contact h1{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.footer_contact a, .footer_contact span{
+    color: gray;
+}
+
+/* --- Responsive Design --- */
+@media screen and (max-width: 768px) {
+    .contact_top{
+        font-size: 16px;
+        margin: 30px 0;
+    }
+    .contact_top h1{
+        font-size: 30px;
+    }
+    .social_contact{
+        margin: 15px 0;
+    }
+    .social_contact h3{
+        font-size: 19px;
+        margin-bottom: 10px;
+    }
+    .img_contact {
+        flex-direction: column; /* Afficher les éléments en colonne */
+        align-items: center;
+    }
+
+    .social {
+        flex-direction: column; /* Afficher les éléments en colonne */
+        align-items: center;
+        margin-bottom: 20px;
+    }
+    .social img{
+        width: 300px;
+        border-radius: 40px;
+    }
+    .social img:hover{
+        transform: scale(1.02);
+    }
+    .social p{
+        font-size: 16px;
+        margin: 10px 0;
+    }
+    .social_contact .social p svg {
+        font-size: 20px; 
+    }
+    .msg_contact{
+        margin: 30px 10px;
+    }
+    .msg_contact h3{
+        font-size: 19px;
+        margin-bottom: 15px;
+    }
+    .msg_contact ul {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    
+    .msg_contact ul li {
+        margin: 0 0 0 100px; 
+    }
+    .footer_contact{
+        flex-direction: column; /* Afficher les éléments en colonne */
+        align-items: center; /* Centrer les éléments horizontalement */
+        justify-content: center; /* Centrer les éléments verticalement */
+        text-align: center; /* Centrer le texte */
+        margin: 0; /* Réinitialiser les marges */
+        padding: 20px 0; /* Ajouter un peu de padding */
+        gap: 20px;
+    }
+    .footer_contact h1{
+        font-size: 18px;
+    }
+    .footer_contact p{
+        font-size: 10px;
+        text-align: center;
+        align-items: center; /* Centrer les éléments horizontalement */
+        justify-content: center;
+    }
+    .icon {
+        margin-right: 0px; /* Espace entre l'icône et le texte */
+        width: 40px;
+    }
+}

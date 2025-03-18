@@ -1,0 +1,324 @@
+{
+  "titre": "Let The Journey Begin",
+  "titre2": "ACTIVITIES",
+  "titre3": "Camel Tours",
+  "text": "Discover the best of Morocco with thrilling activities that showcase its captivating destinations. Experience the vibrant souks and stunning palaces of Merzouga. Ride camels or navigate the thrilling landscapes on a buggy or quad bike. Enjoy a magical evening under the stars while enjoying the fire, and explore the tranquil beauty on sport cars. Each activity offers a unique and enriching way to experience Morocco’s rich culture, history, and natural beauty.",
+  "cards": [
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Two Nights Camel Trekking In Erg Chebbi",
+      "durre": "2 NIGHTS",
+      "about": "Embark on a magical 2-night camel trekking adventure in the Merzouga Desert. This tour offers a unique opportunity to explore the golden dunes of Erg Chebbi, experience the traditional Berber lifestyle, and sleep under the stars in a nomadic-style camp. Perfect for adventure seekers and nature lovers, this tour combines breathtaking landscapes, cultural immersion, and unforgettable memories.",
+      "Highlights": [
+        "Ride camels through the stunning dunes of Erg Chebbi.",
+        "Spend two nights in a traditional Berber desert camp.",
+        "Witness mesmerizing sunsets and sunrises in the Sahara.",
+        "Enjoy authentic Berber meals and music around a campfire.",
+        "Sleep under a blanket of stars in the heart of the desert.",
+        "Visit nomadic families and learn about their way of life."
+      ],
+      "Included":[
+        "Camel trekking experience.",
+        "Overnight stays in a Berber camp (2 nights).",
+        "Traditional Berber meals (dinner and breakfast).",
+        "Guided desert exploration.",
+        "Sunset and sunrise experiences."
+      ],
+      "excluded": [],
+      "Itinerary":[
+        {
+          "titre": ["Day 1: ","Arrival in Merzouga – Camel Trek to Camp"],
+          "liste": [
+            "Arrive in Merzouga and meet your guide.",
+            "Begin your camel trek into the desert, enjoying the scenic dunes.",
+            "Arrive at the Berber camp, where you’ll be welcomed with traditional mint tea.",
+            "Enjoy a delicious Berber dinner and spend the night under the stars."
+          ] 
+        },
+        {
+          "titre":["Day 2:","Desert Exploration"] ,
+          "liste": [
+            "Wake up early to watch the sunrise over the dunes.",
+            "Explore the desert, visit nomadic families, and learn about their daily life.",
+            "Return to the camp for another evening of Berber hospitality, music, and stargazing."
+          ]
+        },
+        {
+          "titre": ["Day 3:", " Sunrise & Return"],
+          "liste": [
+            "Enjoy a final sunrise in the desert.",
+            "Camel trek back to Merzouga, where the tour concludes."
+          ]
+        }
+      ]
+    },
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Day & Night Camel Trek",
+      "durre": "24 Hours",
+      "about": "Experience the magic of the Sahara Desert with this unforgettable day and night camel trek in Merzouga. This tour offers a perfect blend of adventure and relaxation, allowing you to explore the golden dunes of Erg Chebbi, enjoy a traditional Berber camp experience, and witness the breathtaking beauty of the desert under the stars. Ideal for those with limited time, this tour packs a lifetime of memories into one day and night.",
+      "Highlights": [
+        "Camel trek through the stunning dunes of Erg Chebbi.",
+        "Spend a night in a traditional Berber desert camp.",
+        "Witness a mesmerizing desert sunset and sunrise.",
+        "Enjoy authentic Berber meals and music around a campfire.",
+        "Sleep under the stars in the heart of the Sahara.",
+        "Experience the tranquility and beauty of the desert."
+      ],
+      "Included":[
+        "Camel trekking experience.",
+        "Overnight stay in a Berber camp.",
+        "Traditional Berber meals (dinner and breakfast).",
+        "Sunset and sunrise experiences.",
+        "Guided desert exploration."
+      ],
+      "excluded": [],
+      "Itinerary":[
+        {
+          "titre": ["Day 1:", " Arrival in Merzouga – Camel Trek to Camp"],
+          "liste": [
+            "Arrive in Merzouga and meet your guide.",
+            "Begin your camel trek into the desert, enjoying the scenic dunes.",
+            "Arrive at the Berber camp, where you’ll be welcomed with traditional mint tea.",
+            "Watch the sunset over the dunes and enjoy a delicious Berber dinner.",
+            "Spend the night under the stars, listening to traditional Berber music."
+          ] 
+        },
+        {
+          "titre": ["Day 2:", " Sunrise & Return"],
+          "liste": [
+            "Wake up early to watch the sunrise over the desert.",
+            "Enjoy a traditional Berber breakfast at the camp.",
+            "Camel trek back to Merzouga, where the tour concludes."
+          ]
+        }
+      ]
+    },
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Overnight Camel Trek In Merzouga Desert",
+      "durre": "1 NIGHT",
+      "about": "Discover the magic of the Sahara Desert with this 1-night camel trek in Erg Chebbi. This tour offers a perfect introduction to the desert, combining camel trekking, a night in a traditional Berber camp, and the chance to witness the stunning beauty of the dunes. Whether you're a solo traveler, a couple, or a family, this experience will leave you with unforgettable memories.",
+      "Highlights": [
+        "Camel trek through the golden dunes of Erg Chebbi.",
+        "Spend a night in a traditional Berber desert camp.",
+        "Witness a breathtaking desert sunset and sunrise.",
+        "Enjoy authentic Berber meals and music around a campfire.",
+        "Sleep under the stars in the heart of the Sahara.",
+        "Experience the tranquility and beauty of the desert."
+      ],
+      "Included":[
+        "Camel trekking experience.",
+        "Overnight stay in a Berber camp.",
+        "Traditional Berber meals (dinner and breakfast).",
+        "Sunset and sunrise experiences.",
+        "Guided desert exploration."
+      ],
+      "excluded": [],
+      "Itinerary":[
+        {
+          "titre": ["Day 1:", " Arrival in Merzouga – Camel Trek to Camp"],
+          "liste": [
+            "Arrive in Merzouga and meet your guide.",
+            "Begin your camel trek into the desert, enjoying the scenic dunes.",
+            "Arrive at the Berber camp, where you’ll be welcomed with traditional mint tea.",
+            "Watch the sunset over the dunes and enjoy a delicious Berber dinner.",
+            "Spend the night under the stars, listening to traditional Berber music."
+          ] 
+        },
+        {
+          "titre": ["Day 2:", " Sunrise & Return"],
+          "liste": [
+            "Wake up early to watch the sunrise over the desert.",
+            "Enjoy a traditional Berber breakfast at the camp.",
+            "Camel trek back to Merzouga, where the tour concludes."
+          ]
+        }
+      ]
+    },
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Desert 4×4 Tour Around Erg Chebbi Merzouga Dunes",
+      "durre": "1 Day",
+      "about": "Explore the stunning landscapes of the Merzouga Desert with this exciting 4x4 tour. This adventure takes you through the golden dunes of Erg Chebbi, offering a mix of thrilling off-road driving, cultural encounters, and breathtaking scenery. Discover hidden oases, visit nomadic families, and immerse yourself in the beauty of the Sahara.",
+      "Highlights": [
+        "Thrilling 4x4 ride through the Merzouga Desert.",
+        "Explore the golden dunes of Erg Chebbi.",
+        "Visit nomadic families and learn about their lifestyle.",
+        "Discover hidden oases and desert landscapes.",
+        "Stop at panoramic viewpoints for stunning photos.",
+        "Experience the culture and traditions of the desert."
+      ],
+      "Included":[
+        "4x4 desert tour with an experienced driver/guide.",
+        "Visits to nomadic families and desert attractions.",
+        "Bottled water during the tour.",
+        "Hotel pickup and drop-off in Merzouga."
+      ],
+      "excluded":[
+        "Lunch & Drinks."
+      ],
+      "Itinerary":[
+        {
+          "titre": ["Morning:", " Departure from Merzouga"],
+          "liste": [
+            "Pickup from your hotel or accommodation in Merzouga.",
+            "Begin your 4x4 adventure, heading into the desert."
+          ] 
+        },
+        {
+          "titre": ["Midday:", "Desert Exploration"],
+          "liste": [
+            "Visit nomadic families and learn about their traditions.",
+            "Explore hidden oases and desert landscapes.",
+            "Stop at panoramic viewpoints for photos and relaxation."
+          ]
+        },
+        {
+          "titre": ["Afternoon:", " Return to Merzouga"],
+          "liste": [
+            "Continue the tour, discovering more of the desert’s beauty.",
+            "Return to Merzouga, with drop-off at your hotel or accommodation."
+          ]
+        }
+      ]
+    },
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Day Trip To Safsaf Oasis",
+      "durre": "1 Day",
+      "about": "Discover the hidden beauty of the Safsaf Oasis on this day tour from Merzouga. This adventure takes you through the desert landscapes, offering a mix of natural wonders, cultural encounters, and breathtaking scenery. Explore the lush oasis, visit nomadic families, and immerse yourself in the tranquility of the Sahara.",
+  "Highlights": [
+    "Scenic drive through the Merzouga Desert.",
+    "Visit the stunning Safsaf Oasis, a hidden gem in the desert.",
+    "Explore the lush palm groves and natural springs.",
+    "Meet nomadic families and learn about their traditional lifestyle.",
+    "Enjoy panoramic views of the desert landscapes.",
+    "Experience the peace and serenity of the Sahara."
+  ],
+  "Included": [
+    "4x4 desert tour with an experienced driver/guide.",
+    "Visits to the Safsaf Oasis and nomadic families.",
+    "Bottled water during the tour.",
+    "Hotel pickup and drop-off in Merzouga."
+  ],
+  "excluded": [
+    "Lunch & Drinks."
+  ],
+  "Itinerary": [
+    {
+      "titre": ["Morning:", " Departure from Merzouga"],
+      "liste": [
+        "Pickup from your hotel or accommodation in Merzouga.",
+        "Begin your 4x4 adventure, heading towards the Safsaf Oasis."
+      ]
+    },
+    {
+      "titre": ["Midday:", " Exploration of Safsaf Oasis"],
+      "liste": [
+        "Arrive at the Safsaf Oasis and explore its lush palm groves.",
+        "Discover the natural springs and enjoy the tranquil atmosphere.",
+        "Visit nomadic families and learn about their daily life and traditions."
+      ]
+    },
+    {
+      "titre": ["Afternoon:", " Return to Merzouga"],
+      "liste": [
+        "Continue the tour with a scenic drive through the desert.",
+        "Stop at panoramic viewpoints for photos and relaxation.",
+        "Return to Merzouga, with drop-off at your hotel or accommodation."
+      ]
+    }
+  ]
+    },
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Perfect Honeymoon in Merzouga Sahara Desert",
+      "durre": "Optional",
+      "about": "Celebrate your love with a romantic honeymoon in the Sahara Desert. This exclusive experience offers a perfect blend of luxury, adventure, and intimacy, allowing you to create unforgettable memories in the heart of the desert. Enjoy private camel treks, luxurious desert camps, and breathtaking sunsets under the stars.",
+  "Highlights": [
+    "Private camel trek through the golden dunes of Erg Chebbi.",
+    "Stay in a luxurious private desert camp.",
+    "Romantic candlelit dinners under the stars.",
+    "Witness mesmerizing desert sunsets and sunrises.",
+    "Enjoy traditional Berber music and entertainment.",
+    "Experience the tranquility and beauty of the Sahara."
+  ],
+  "Included": [
+    "Private camel trekking experience.",
+    "Overnight stay in a luxurious private desert camp.",
+    "Romantic candlelit dinner and breakfast.",
+    "Sunset and sunrise experiences.",
+    "Traditional Berber music and entertainment.",
+    "Hotel pickup and drop-off in Merzouga."
+  ],
+  "excluded": [],
+  "Itinerary": [
+    {
+      "titre": ["Day 1:", " Arrival in Merzouga – Private Camel Trek to Camp"],
+      "liste": [
+        "Arrive in Merzouga and meet your guide.",
+        "Begin your private camel trek into the desert, enjoying the scenic dunes.",
+        "Arrive at your luxurious private camp, where you’ll be welcomed with mint tea.",
+        "Enjoy a romantic candlelit dinner under the stars.",
+        "Spend the night in your private tent, listening to traditional Berber music."
+      ]
+    },
+    {
+      "titre": ["Day 2:", " Sunrise & Return to Merzouga"],
+      "liste": [
+        "Wake up early to watch the sunrise over the dunes.",
+        "Enjoy a private breakfast at the camp.",
+        "Camel trek back to Merzouga, where the tour concludes."
+      ]
+    }
+  ]
+    },
+    {
+      "from": "FROM MERZOUGA",
+      "titre": "Full Day Camel Trekking in Erg Chebbi Desert",
+      "durre": "1 Day",
+      "about": "Embark on a full-day camel trekking adventure in the Erg Chebbi dunes of the Merzouga Desert. This tour offers a unique opportunity to explore the stunning desert landscapes, experience the traditional Berber lifestyle, and enjoy the tranquility of the Sahara. Perfect for those seeking an immersive desert experience in a single day.",
+      "Highlights": [
+        "Full-day camel trek through the golden dunes of Erg Chebbi.",
+        "Explore the stunning desert landscapes and hidden corners of the Sahara.",
+        "Enjoy a traditional Berber lunch in the desert.",
+        "Witness breathtaking desert views and panoramic scenery.",
+        "Experience the peace and serenity of the desert.",
+        "Learn about the traditional lifestyle of the Berber nomads."
+      ],
+      "Included": [
+        "Camel trekking experience with an experienced guide.",
+        "Traditional Berber lunch in the desert.",
+        "Bottled water during the trek.",
+        "Hotel pickup and drop-off in Merzouga."
+      ],
+      "excluded": [],
+      "Itinerary": [
+        {
+          "titre": ["Morning:", " Departure from Merzouga"],
+          "liste": [
+            "Pickup from your hotel or accommodation in Merzouga.",
+            "Meet your guide and camels, and begin your trek into the desert.",
+            "Enjoy the scenic views of the Erg Chebbi dunes as you ride your camel."
+          ]
+        },
+        {
+          "titre": ["Midday:", " Desert Exploration and Lunch"],
+          "liste": [
+            "Stop at a scenic spot to enjoy a traditional Berber lunch.",
+            "Relax and take in the breathtaking desert views.",
+            "Continue exploring the dunes and hidden corners of the Sahara."
+          ]
+        },
+        {
+          "titre": ["Afternoon:", " Return to Merzouga"],
+          "liste": [
+            "Begin your camel trek back to Merzouga.",
+            "Arrive in Merzouga, where the tour concludes with drop-off at your hotel or accommodation."
+          ]
+        }
+      ]
+    }
+  ]
+}

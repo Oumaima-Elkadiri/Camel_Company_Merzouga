@@ -1,0 +1,324 @@
+{
+    "titre": "Que le voyage commence",
+    "titre2": "ACTIVITÉS",
+    "titre3": "Tours à dos de chameau",
+    "text": "Découvrez le meilleur du Maroc avec des activités passionnantes qui mettent en valeur ses destinations captivantes. Explorez les souks animés et les magnifiques palais de Merzouga. Montez à dos de chameau ou parcourez les paysages époustouflants en buggy ou en quad. Profitez d'une soirée magique sous les étoiles autour d'un feu, et explorez la beauté tranquille en voiture de sport. Chaque activité offre une manière unique et enrichissante de découvrir la culture, l'histoire et la beauté naturelle du Maroc.",
+    "cards": [
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Deux nuits de trek à dos de chameau dans l'Erg Chebbi",
+        "durre": "2 NUITS",
+        "about": "Partez pour une aventure magique de 2 nuits de trek à dos de chameau dans le désert de Merzouga. Ce tour offre une opportunité unique d'explorer les dunes dorées de l'Erg Chebbi, de vivre le mode de vie traditionnel berbère et de dormir sous les étoiles dans un camp de style nomade. Parfait pour les amateurs d'aventure et de nature, ce tour combine des paysages à couper le souffle, une immersion culturelle et des souvenirs inoubliables.",
+        "Highlights": [
+          "Montez à dos de chameau à travers les dunes impressionnantes de l'Erg Chebbi.",
+          "Passez deux nuits dans un camp désertique berbère traditionnel.",
+          "Admirez les couchers et levers de soleil envoûtants dans le Sahara.",
+          "Profitez de repas berbères authentiques et de musique autour d'un feu de camp.",
+          "Dormez sous une couverture d'étoiles au cœur du désert.",
+          "Visitez des familles nomades et découvrez leur mode de vie."
+        ],
+        "Included":[
+          "Expérience de trek à dos de chameau.",
+          "Séjours nocturnes dans un camp berbère (2 nuits).",
+          "Repas berbères traditionnels (dîner et petit-déjeuner).",
+          "Exploration guidée du désert.",
+          "Expériences de coucher et lever de soleil."
+        ],
+        "excluded": [],
+        "Itinerary":[
+          {
+            "titre": ["Jour 1 : ", "Arrivée à Merzouga – Trek à dos de chameau jusqu'au camp"],
+            "liste": [
+              "Arrivez à Merzouga et rencontrez votre guide.",
+              "Commencez votre trek à dos de chameau dans le désert, en profitant des dunes pittoresques.",
+              "Arrivez au camp berbère, où vous serez accueilli avec un thé à la menthe traditionnel.",
+              "Profitez d'un délicieux dîner berbère et passez la nuit sous les étoiles."
+            ] 
+          },
+          {
+            "titre":["Jour 2 :","Exploration du désert"] ,
+            "liste": [
+              "Réveillez-vous tôt pour admirer le lever du soleil sur les dunes.",
+              "Explorez le désert, visitez des familles nomades et découvrez leur vie quotidienne.",
+              "Retournez au camp pour une autre soirée d'hospitalité berbère, de musique et d'observation des étoiles."
+            ]
+          },
+          {
+            "titre": ["Jour 3 :", " Lever de soleil et retour"],
+            "liste": [
+              "Profitez d'un dernier lever de soleil dans le désert.",
+              "Retournez à dos de chameau à Merzouga, où le tour se termine."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Trek à dos de chameau d'une journée et d'une nuit",
+        "durre": "24 heures",
+        "about": "Vivez la magie du désert du Sahara avec ce trek à dos de chameau inoubliable d'une journée et d'une nuit à Merzouga. Ce tour offre un mélange parfait d'aventure et de détente, vous permettant d'explorer les dunes dorées de l'Erg Chebbi, de profiter d'une expérience de camp berbère traditionnel et d'admirer la beauté époustouflante du désert sous les étoiles. Idéal pour ceux qui ont peu de temps, ce tour offre une vie de souvenirs en une journée et une nuit.",
+        "Highlights": [
+          "Trek à dos de chameau à travers les dunes impressionnantes de l'Erg Chebbi.",
+          "Passez une nuit dans un camp désertique berbère traditionnel.",
+          "Admirez un coucher et un lever de soleil envoûtants dans le désert.",
+          "Profitez de repas berbères authentiques et de musique autour d'un feu de camp.",
+          "Dormez sous les étoiles au cœur du Sahara.",
+          "Vivez la tranquillité et la beauté du désert."
+        ],
+        "Included":[
+          "Expérience de trek à dos de chameau.",
+          "Séjour nocturne dans un camp berbère.",
+          "Repas berbères traditionnels (dîner et petit-déjeuner).",
+          "Expériences de coucher et lever de soleil.",
+          "Exploration guidée du désert."
+        ],
+        "excluded": [],
+        "Itinerary":[
+          {
+            "titre": ["Jour 1 :", " Arrivée à Merzouga – Trek à dos de chameau jusqu'au camp"],
+            "liste": [
+              "Arrivez à Merzouga et rencontrez votre guide.",
+              "Commencez votre trek à dos de chameau dans le désert, en profitant des dunes pittoresques.",
+              "Arrivez au camp berbère, où vous serez accueilli avec un thé à la menthe traditionnel.",
+              "Admirez le coucher de soleil sur les dunes et profitez d'un délicieux dîner berbère.",
+              "Passez la nuit sous les étoiles, en écoutant de la musique berbère traditionnelle."
+            ] 
+          },
+          {
+            "titre": ["Jour 2 :", " Lever de soleil et retour"],
+            "liste": [
+              "Réveillez-vous tôt pour admirer le lever du soleil sur le désert.",
+              "Profitez d'un petit-déjeuner berbère traditionnel au camp.",
+              "Retournez à dos de chameau à Merzouga, où le tour se termine."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Trek à dos de chameau d'une nuit dans le désert de Merzouga",
+        "durre": "1 NUIT",
+        "about": "Découvrez la magie du désert du Sahara avec ce trek à dos de chameau d'une nuit dans l'Erg Chebbi. Ce tour offre une introduction parfaite au désert, combinant le trek à dos de chameau, une nuit dans un camp berbère traditionnel et la chance d'admirer la beauté époustouflante des dunes. Que vous soyez un voyageur solitaire, un couple ou une famille, cette expérience vous laissera des souvenirs inoubliables.",
+        "Highlights": [
+          "Trek à dos de chameau à travers les dunes dorées de l'Erg Chebbi.",
+          "Passez une nuit dans un camp désertique berbère traditionnel.",
+          "Admirez un coucher et un lever de soleil à couper le souffle dans le désert.",
+          "Profitez de repas berbères authentiques et de musique autour d'un feu de camp.",
+          "Dormez sous les étoiles au cœur du Sahara.",
+          "Vivez la tranquillité et la beauté du désert."
+        ],
+        "Included":[
+          "Expérience de trek à dos de chameau.",
+          "Séjour nocturne dans un camp berbère.",
+          "Repas berbères traditionnels (dîner et petit-déjeuner).",
+          "Expériences de coucher et lever de soleil.",
+          "Exploration guidée du désert."
+        ],
+        "excluded": [],
+        "Itinerary":[
+          {
+            "titre": ["Jour 1 :", " Arrivée à Merzouga – Trek à dos de chameau jusqu'au camp"],
+            "liste": [
+              "Arrivez à Merzouga et rencontrez votre guide.",
+              "Commencez votre trek à dos de chameau dans le désert, en profitant des dunes pittoresques.",
+              "Arrivez au camp berbère, où vous serez accueilli avec un thé à la menthe traditionnel.",
+              "Admirez le coucher de soleil sur les dunes et profitez d'un délicieux dîner berbère.",
+              "Passez la nuit sous les étoiles, en écoutant de la musique berbère traditionnelle."
+            ] 
+          },
+          {
+            "titre": ["Jour 2 :", " Lever de soleil et retour"],
+            "liste": [
+              "Réveillez-vous tôt pour admirer le lever du soleil sur le désert.",
+              "Profitez d'un petit-déjeuner berbère traditionnel au camp.",
+              "Retournez à dos de chameau à Merzouga, où le tour se termine."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Tour en 4×4 autour des dunes de l'Erg Chebbi à Merzouga",
+        "durre": "1 Jour",
+        "about": "Explorez les paysages époustouflants du désert de Merzouga avec ce tour en 4x4 excitant. Cette aventure vous emmène à travers les dunes dorées de l'Erg Chebbi, offrant un mélange de conduite hors route palpitante, de rencontres culturelles et de paysages à couper le souffle. Découvrez des oasis cachées, visitez des familles nomades et immergez-vous dans la beauté du Sahara.",
+        "Highlights": [
+          "Conduite palpitante en 4x4 à travers le désert de Merzouga.",
+          "Explorez les dunes dorées de l'Erg Chebbi.",
+          "Visitez des familles nomades et découvrez leur mode de vie.",
+          "Découvrez des oasis cachées et des paysages désertiques.",
+          "Arrêtez-vous à des points de vue panoramiques pour des photos magnifiques.",
+          "Vivez la culture et les traditions du désert."
+        ],
+        "Included":[
+          "Tour en 4x4 dans le désert avec un guide/chauffeur expérimenté.",
+          "Visites de familles nomades et des attractions du désert.",
+          "Eau en bouteille pendant le tour.",
+          "Prise en charge et retour à l'hôtel à Merzouga."
+        ],
+        "excluded":[
+          "Déjeuner et boissons."
+        ],
+        "Itinerary":[
+          {
+            "titre": ["Matin :", " Départ de Merzouga"],
+            "liste": [
+              "Prise en charge à votre hôtel ou hébergement à Merzouga.",
+              "Commencez votre aventure en 4x4 en direction du désert."
+            ] 
+          },
+          {
+            "titre": ["Midi :", "Exploration du désert"],
+            "liste": [
+              "Visitez des familles nomades et découvrez leurs traditions.",
+              "Explorez des oasis cachées et des paysages désertiques.",
+              "Arrêtez-vous à des points de vue panoramiques pour des photos et de la détente."
+            ]
+          },
+          {
+            "titre": ["Après-midi :", " Retour à Merzouga"],
+            "liste": [
+              "Continuez le tour, en découvrant davantage la beauté du désert.",
+              "Retournez à Merzouga, avec un retour à votre hôtel ou hébergement."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Excursion d'une journée à l'oasis de Safsaf",
+        "durre": "1 Jour",
+        "about": "Découvrez la beauté cachée de l'oasis de Safsaf lors de cette excursion d'une journée depuis Merzouga. Cette aventure vous emmène à travers les paysages désertiques, offrant un mélange de merveilles naturelles, de rencontres culturelles et de paysages à couper le souffle. Explorez l'oasis luxuriante, visitez des familles nomades et immergez-vous dans la tranquillité du Sahara.",
+        "Highlights": [
+          "Conduite panoramique à travers le désert de Merzouga.",
+          "Visitez l'impressionnante oasis de Safsaf, un joyau caché du désert.",
+          "Explorez les palmeraies luxuriantes et les sources naturelles.",
+          "Rencontrez des familles nomades et découvrez leur mode de vie traditionnel.",
+          "Profitez de vues panoramiques sur les paysages désertiques.",
+          "Vivez la paix et la sérénité du Sahara."
+        ],
+        "Included": [
+          "Tour en 4x4 dans le désert avec un guide/chauffeur expérimenté.",
+          "Visites de l'oasis de Safsaf et de familles nomades.",
+          "Eau en bouteille pendant le tour.",
+          "Prise en charge et retour à l'hôtel à Merzouga."
+        ],
+        "excluded": [
+          "Déjeuner et boissons."
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Matin :", " Départ de Merzouga"],
+            "liste": [
+              "Prise en charge à votre hôtel ou hébergement à Merzouga.",
+              "Commencez votre aventure en 4x4 en direction de l'oasis de Safsaf."
+            ]
+          },
+          {
+            "titre": ["Midi :", " Exploration de l'oasis de Safsaf"],
+            "liste": [
+              "Arrivez à l'oasis de Safsaf et explorez ses palmeraies luxuriantes.",
+              "Découvrez les sources naturelles et profitez de l'atmosphère tranquille.",
+              "Visitez des familles nomades et découvrez leur vie quotidienne et leurs traditions."
+            ]
+          },
+          {
+            "titre": ["Après-midi :", " Retour à Merzouga"],
+            "liste": [
+              "Continuez le tour avec une conduite panoramique à travers le désert.",
+              "Arrêtez-vous à des points de vue panoramiques pour des photos et de la détente.",
+              "Retournez à Merzouga, avec un retour à votre hôtel ou hébergement."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Lune de miel parfaite dans le désert du Sahara à Merzouga",
+        "durre": "Optionnel",
+        "about": "Célébrez votre amour avec une lune de miel romantique dans le désert du Sahara. Cette expérience exclusive offre un mélange parfait de luxe, d'aventure et d'intimité, vous permettant de créer des souvenirs inoubliables au cœur du désert. Profitez de treks à dos de chameau privés, de camps désertiques luxueux et de couchers de soleil à couper le souffle sous les étoiles.",
+        "Highlights": [
+          "Trek à dos de chameau privé à travers les dunes dorées de l'Erg Chebbi.",
+          "Séjournez dans un camp désertique privé et luxueux.",
+          "Dîners aux chandelles romantiques sous les étoiles.",
+          "Admirez les couchers et levers de soleil envoûtants dans le désert.",
+          "Profitez de musique et de divertissements berbères traditionnels.",
+          "Vivez la tranquillité et la beauté du Sahara."
+        ],
+        "Included": [
+          "Expérience de trek à dos de chameau privé.",
+          "Séjour nocturne dans un camp désertique privé et luxueux.",
+          "Dîner aux chandelles romantique et petit-déjeuner.",
+          "Expériences de coucher et lever de soleil.",
+          "Musique et divertissements berbères traditionnels.",
+          "Prise en charge et retour à l'hôtel à Merzouga."
+        ],
+        "excluded": [],
+        "Itinerary": [
+          {
+            "titre": ["Jour 1 :", " Arrivée à Merzouga – Trek à dos de chameau privé jusqu'au camp"],
+            "liste": [
+              "Arrivez à Merzouga et rencontrez votre guide.",
+              "Commencez votre trek à dos de chameau privé dans le désert, en profitant des dunes pittoresques.",
+              "Arrivez à votre camp privé luxueux, où vous serez accueilli avec un thé à la menthe.",
+              "Profitez d'un dîner aux chandelles romantique sous les étoiles.",
+              "Passez la nuit dans votre tente privée, en écoutant de la musique berbère traditionnelle."
+            ]
+          },
+          {
+            "titre": ["Jour 2 :", " Lever de soleil et retour à Merzouga"],
+            "liste": [
+              "Réveillez-vous tôt pour admirer le lever du soleil sur les dunes.",
+              "Profitez d'un petit-déjeuner privé au camp.",
+              "Retournez à dos de chameau à Merzouga, où le tour se termine."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS MERZOUGA",
+        "titre": "Trek à dos de chameau d'une journée complète dans le désert de l'Erg Chebbi",
+        "durre": "1 Jour",
+        "about": "Partez pour une aventure d'une journée complète de trek à dos de chameau dans les dunes de l'Erg Chebbi du désert de Merzouga. Ce tour offre une opportunité unique d'explorer les paysages désertiques époustouflants, de vivre le mode de vie traditionnel berbère et de profiter de la tranquillité du Sahara. Parfait pour ceux qui cherchent une expérience immersive du désert en une seule journée.",
+        "Highlights": [
+          "Trek à dos de chameau d'une journée à travers les dunes dorées de l'Erg Chebbi.",
+          "Explorez les paysages désertiques époustouflants et les coins cachés du Sahara.",
+          "Profitez d'un déjeuner berbère traditionnel dans le désert.",
+          "Admirez des vues à couper le souffle sur le désert et des paysages panoramiques.",
+          "Vivez la paix et la sérénité du désert.",
+          "Découvrez le mode de vie traditionnel des nomades berbères."
+        ],
+        "Included": [
+          "Expérience de trek à dos de chameau avec un guide expérimenté.",
+          "Déjeuner berbère traditionnel dans le désert.",
+          "Eau en bouteille pendant le trek.",
+          "Prise en charge et retour à l'hôtel à Merzouga."
+        ],
+        "excluded": [],
+        "Itinerary": [
+          {
+            "titre": ["Matin :", " Départ de Merzouga"],
+            "liste": [
+              "Prise en charge à votre hôtel ou hébergement à Merzouga.",
+              "Rencontrez votre guide et les chameaux, et commencez votre trek dans le désert.",
+              "Profitez des vues pittoresques des dunes de l'Erg Chebbi pendant que vous montez à dos de chameau."
+            ]
+          },
+          {
+            "titre": ["Midi :", " Exploration du désert et déjeuner"],
+            "liste": [
+              "Arrêtez-vous à un endroit pittoresque pour profiter d'un déjeuner berbère traditionnel.",
+              "Détendez-vous et profitez des vues à couper le souffle sur le désert.",
+              "Continuez à explorer les dunes et les coins cachés du Sahara."
+            ]
+          },
+          {
+            "titre": ["Après-midi :", " Retour à Merzouga"],
+            "liste": [
+              "Commencez votre trek à dos de chameau de retour à Merzouga.",
+              "Arrivez à Merzouga, où le tour se termine avec un retour à votre hôtel ou hébergement."
+            ]
+          }
+        ]
+      }
+    ]
+  }

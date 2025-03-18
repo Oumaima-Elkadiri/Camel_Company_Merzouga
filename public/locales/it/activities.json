@@ -1,0 +1,324 @@
+{
+    "titre": "Che il viaggio abbia inizio",
+    "titre2": "ATTIVITÀ",
+    "titre3": "Tour in cammello",
+    "text": "Scopri il meglio del Marocco con attività emozionanti che mettono in mostra le sue destinazioni affascinanti. Esplora i vivaci souk e i magnifici palazzi di Merzouga. Cavalca cammelli o percorri i paesaggi mozzafiato in buggy o quad. Goditi una serata magica sotto le stelle intorno a un fuoco e scopri la bellezza tranquilla in auto sportive. Ogni attività offre un modo unico e arricchente di vivere la ricca cultura, la storia e la bellezza naturale del Marocco.",
+    "cards": [
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Due notti di trekking in cammello nell'Erg Chebbi",
+        "durre": "2 NOTTI",
+        "about": "Parti per una magica avventura di 2 notti di trekking in cammello nel deserto di Merzouga. Questo tour offre un'opportunità unica per esplorare le dune dorate dell'Erg Chebbi, vivere lo stile di vita tradizionale berbero e dormire sotto le stelle in un campo in stile nomade. Perfetto per gli amanti dell'avventura e della natura, questo tour combina paesaggi mozzafiato, immersione culturale e ricordi indimenticabili.",
+        "Highlights": [
+          "Cavalca cammelli attraverso le impressionanti dune dell'Erg Chebbi.",
+          "Trascorri due notti in un campo berbero tradizionale nel deserto.",
+          "Ammira i tramonti e le albe ipnotici nel Sahara.",
+          "Goditi pasti berberi autentici e musica intorno a un falò.",
+          "Dormi sotto un manto di stelle nel cuore del deserto.",
+          "Visita famiglie nomadi e scopri il loro stile di vita."
+        ],
+        "Included":[
+          "Esperienza di trekking in cammello.",
+          "Pernottamenti in un campo berbero (2 notti).",
+          "Pasti berberi tradizionali (cena e colazione).",
+          "Esplorazione guidata del deserto.",
+          "Esperienze di tramonto e alba."
+        ],
+        "excluded": [],
+        "Itinerary":[
+          {
+            "titre": ["Giorno 1: ", "Arrivo a Merzouga – Trek in cammello verso il campo"],
+            "liste": [
+              "Arriva a Merzouga e incontra la tua guida.",
+              "Inizia il tuo trek in cammello nel deserto, godendoti le dune pittoresche.",
+              "Arriva al campo berbero, dove sarai accolto con un tè alla menta tradizionale.",
+              "Goditi una deliziosa cena berbera e passa la notte sotto le stelle."
+            ] 
+          },
+          {
+            "titre":["Giorno 2:","Esplorazione del deserto"] ,
+            "liste": [
+              "Svegliati presto per ammirare l'alba sulle dune.",
+              "Esplora il deserto, visita famiglie nomadi e scopri la loro vita quotidiana.",
+              "Torna al campo per un'altra serata di ospitalità berbera, musica e osservazione delle stelle."
+            ]
+          },
+          {
+            "titre": ["Giorno 3:", " Alba e ritorno"],
+            "liste": [
+              "Goditi un'ultima alba nel deserto.",
+              "Torna a Merzouga in cammello, dove il tour si conclude."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Trek in cammello di un giorno e una notte",
+        "durre": "24 ore",
+        "about": "Vivi la magia del deserto del Sahara con questo indimenticabile trek in cammello di un giorno e una notte a Merzouga. Questo tour offre un mix perfetto di avventura e relax, permettendoti di esplorare le dune dorate dell'Erg Chebbi, godere di un'esperienza in un campo berbero tradizionale e ammirare la bellezza mozzafiato del deserto sotto le stelle. Ideale per chi ha poco tempo, questo tour regala una vita di ricordi in un giorno e una notte.",
+        "Highlights": [
+          "Trek in cammello attraverso le impressionanti dune dell'Erg Chebbi.",
+          "Trascorri una notte in un campo berbero tradizionale nel deserto.",
+          "Ammira un tramonto e un'alba ipnotici nel deserto.",
+          "Goditi pasti berberi autentici e musica intorno a un falò.",
+          "Dormi sotto le stelle nel cuore del Sahara.",
+          "Vivi la tranquillità e la bellezza del deserto."
+        ],
+        "Included":[
+          "Esperienza di trekking in cammello.",
+          "Pernottamento in un campo berbero.",
+          "Pasti berberi tradizionali (cena e colazione).",
+          "Esperienze di tramonto e alba.",
+          "Esplorazione guidata del deserto."
+        ],
+        "excluded": [],
+        "Itinerary":[
+          {
+            "titre": ["Giorno 1:", " Arrivo a Merzouga – Trek in cammello verso il campo"],
+            "liste": [
+              "Arriva a Merzouga e incontra la tua guida.",
+              "Inizia il tuo trek in cammello nel deserto, godendoti le dune pittoresche.",
+              "Arriva al campo berbero, dove sarai accolto con un tè alla menta tradizionale.",
+              "Ammira il tramonto sulle dune e goditi una deliziosa cena berbera.",
+              "Passa la notte sotto le stelle, ascoltando musica berbera tradizionale."
+            ] 
+          },
+          {
+            "titre": ["Giorno 2:", " Alba e ritorno"],
+            "liste": [
+              "Svegliati presto per ammirare l'alba sul deserto.",
+              "Goditi una colazione berbera tradizionale al campo.",
+              "Torna a Merzouga in cammello, dove il tour si conclude."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Trek in cammello di una notte nel deserto di Merzouga",
+        "durre": "1 NOTTE",
+        "about": "Scopri la magia del deserto del Sahara con questo trek in cammello di una notte nell'Erg Chebbi. Questo tour offre un'introduzione perfetta al deserto, combinando il trek in cammello, una notte in un campo berbero tradizionale e la possibilità di ammirare la bellezza mozzafiato delle dune. Che tu sia un viaggiatore solitario, una coppia o una famiglia, questa esperienza ti lascerà ricordi indimenticabili.",
+        "Highlights": [
+          "Trek in cammello attraverso le dune dorate dell'Erg Chebbi.",
+          "Trascorri una notte in un campo berbero tradizionale nel deserto.",
+          "Ammira un tramonto e un'alba mozzafiato nel deserto.",
+          "Goditi pasti berberi autentici e musica intorno a un falò.",
+          "Dormi sotto le stelle nel cuore del Sahara.",
+          "Vivi la tranquillità e la bellezza del deserto."
+        ],
+        "Included":[
+          "Esperienza di trekking in cammello.",
+          "Pernottamento in un campo berbero.",
+          "Pasti berberi tradizionali (cena e colazione).",
+          "Esperienze di tramonto e alba.",
+          "Esplorazione guidata del deserto."
+        ],
+        "excluded": [],
+        "Itinerary":[
+          {
+            "titre": ["Giorno 1:", " Arrivo a Merzouga – Trek in cammello verso il campo"],
+            "liste": [
+              "Arriva a Merzouga e incontra la tua guida.",
+              "Inizia il tuo trek in cammello nel deserto, godendoti le dune pittoresche.",
+              "Arriva al campo berbero, dove sarai accolto con un tè alla menta tradizionale.",
+              "Ammira il tramonto sulle dune e goditi una deliziosa cena berbera.",
+              "Passa la notte sotto le stelle, ascoltando musica berbera tradizionale."
+            ] 
+          },
+          {
+            "titre": ["Giorno 2:", " Alba e ritorno"],
+            "liste": [
+              "Svegliati presto per ammirare l'alba sul deserto.",
+              "Goditi una colazione berbera tradizionale al campo.",
+              "Torna a Merzouga in cammello, dove il tour si conclude."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Tour in 4×4 intorno alle dune dell'Erg Chebbi a Merzouga",
+        "durre": "1 Giorno",
+        "about": "Esplora i paesaggi mozzafiato del deserto di Merzouga con questo emozionante tour in 4x4. Questa avventura ti porta attraverso le dune dorate dell'Erg Chebbi, offrendo un mix di guida fuoristrada emozionante, incontri culturali e paesaggi mozzafiato. Scopri oasi nascoste, visita famiglie nomadi e immergiti nella bellezza del Sahara.",
+        "Highlights": [
+          "Guida emozionante in 4x4 attraverso il deserto di Merzouga.",
+          "Esplora le dune dorate dell'Erg Chebbi.",
+          "Visita famiglie nomadi e scopri il loro stile di vita.",
+          "Scopri oasi nascoste e paesaggi desertici.",
+          "Fermati a punti panoramici per foto spettacolari.",
+          "Vivi la cultura e le tradizioni del deserto."
+        ],
+        "Included":[
+          "Tour in 4x4 nel deserto con una guida/autista esperto.",
+          "Visite a famiglie nomadi e attrazioni del deserto.",
+          "Acqua in bottiglia durante il tour.",
+          "Pick-up e rientro in hotel a Merzouga."
+        ],
+        "excluded":[
+          "Pranzo e bevande."
+        ],
+        "Itinerary":[
+          {
+            "titre": ["Mattina:", " Partenza da Merzouga"],
+            "liste": [
+              "Pick-up dal tuo hotel o alloggio a Merzouga.",
+              "Inizia la tua avventura in 4x4 dirigendoti verso il deserto."
+            ] 
+          },
+          {
+            "titre": ["Mezzogiorno:", "Esplorazione del deserto"],
+            "liste": [
+              "Visita famiglie nomadi e scopri le loro tradizioni.",
+              "Esplora oasi nascoste e paesaggi desertici.",
+              "Fermati a punti panoramici per foto e relax."
+            ]
+          },
+          {
+            "titre": ["Pomeriggio:", " Ritorno a Merzouga"],
+            "liste": [
+              "Continua il tour, scoprendo ulteriormente la bellezza del deserto.",
+              "Torna a Merzouga, con rientro al tuo hotel o alloggio."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Escursione di un giorno all'oasi di Safsaf",
+        "durre": "1 Giorno",
+        "about": "Scopri la bellezza nascosta dell'oasi di Safsaf con questa escursione di un giorno da Merzouga. Questa avventura ti porta attraverso i paesaggi desertici, offrendo un mix di meraviglie naturali, incontri culturali e paesaggi mozzafiato. Esplora l'oasi lussureggiante, visita famiglie nomadi e immergiti nella tranquillità del Sahara.",
+        "Highlights": [
+          "Passeggiata panoramica attraverso il deserto di Merzouga.",
+          "Visita la splendida oasi di Safsaf, un gioiello nascosto nel deserto.",
+          "Esplora le palme lussureggianti e le sorgenti naturali.",
+          "Incontra famiglie nomadi e scopri il loro stile di vita tradizionale.",
+          "Goditi viste panoramiche sui paesaggi desertici.",
+          "Vivi la pace e la serenità del Sahara."
+        ],
+        "Included": [
+          "Tour in 4x4 nel deserto con una guida/autista esperto.",
+          "Visite all'oasi di Safsaf e a famiglie nomadi.",
+          "Acqua in bottiglia durante il tour.",
+          "Pick-up e rientro in hotel a Merzouga."
+        ],
+        "excluded": [
+          "Pranzo e bevande."
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Mattina:", " Partenza da Merzouga"],
+            "liste": [
+              "Pick-up dal tuo hotel o alloggio a Merzouga.",
+              "Inizia la tua avventura in 4x4 dirigendoti verso l'oasi di Safsaf."
+            ]
+          },
+          {
+            "titre": ["Mezzogiorno:", " Esplorazione dell'oasi di Safsaf"],
+            "liste": [
+              "Arriva all'oasi di Safsaf e esplora le sue palme lussureggianti.",
+              "Scopri le sorgenti naturali e goditi l'atmosfera tranquilla.",
+              "Visita famiglie nomadi e scopri la loro vita quotidiana e le loro tradizioni."
+            ]
+          },
+          {
+            "titre": ["Pomeriggio:", " Ritorno a Merzouga"],
+            "liste": [
+              "Continua il tour con una passeggiata panoramica attraverso il deserto.",
+              "Fermati a punti panoramici per foto e relax.",
+              "Torna a Merzouga, con rientro al tuo hotel o alloggio."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Luna di miele perfetta nel deserto del Sahara a Merzouga",
+        "durre": "Opzionale",
+        "about": "Celebra il tuo amore con una luna di miele romantica nel deserto del Sahara. Questa esperienza esclusiva offre un mix perfetto di lusso, avventura e intimità, permettendoti di creare ricordi indimenticabili nel cuore del deserto. Goditi trek in cammello privati, campi desertici lussuosi e tramonti mozzafiato sotto le stelle.",
+        "Highlights": [
+          "Trek in cammello privato attraverso le dune dorate dell'Erg Chebbi.",
+          "Soggiorna in un campo desertico privato e lussuoso.",
+          "Cene romantiche a lume di candela sotto le stelle.",
+          "Ammira i tramonti e le albe ipnotici nel deserto.",
+          "Goditi musica e intrattenimento berberi tradizionali.",
+          "Vivi la tranquillità e la bellezza del Sahara."
+        ],
+        "Included": [
+          "Esperienza di trekking in cammello privato.",
+          "Pernottamento in un campo desertico privato e lussuoso.",
+          "Cena romantica a lume di candela e colazione.",
+          "Esperienze di tramonto e alba.",
+          "Musica e intrattenimento berberi tradizionali.",
+          "Pick-up e rientro in hotel a Merzouga."
+        ],
+        "excluded": [],
+        "Itinerary": [
+          {
+            "titre": ["Giorno 1:", " Arrivo a Merzouga – Trek in cammello privato verso il campo"],
+            "liste": [
+              "Arriva a Merzouga e incontra la tua guida.",
+              "Inizia il tuo trek in cammello privato nel deserto, godendoti le dune pittoresche.",
+              "Arriva al tuo campo privato lussuoso, dove sarai accolto con un tè alla menta.",
+              "Goditi una cena romantica a lume di candela sotto le stelle.",
+              "Passa la notte nella tua tenda privata, ascoltando musica berbera tradizionale."
+            ]
+          },
+          {
+            "titre": ["Giorno 2:", " Alba e ritorno a Merzouga"],
+            "liste": [
+              "Svegliati presto per ammirare l'alba sulle dune.",
+              "Goditi una colazione privata al campo.",
+              "Torna a Merzouga in cammello, dove il tour si conclude."
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DA MERZOUGA",
+        "titre": "Trek in cammello di un'intera giornata nel deserto dell'Erg Chebbi",
+        "durre": "1 Giorno",
+        "about": "Parti per un'avventura di un'intera giornata di trek in cammello tra le dune dell'Erg Chebbi nel deserto di Merzouga. Questo tour offre un'opportunità unica per esplorare i paesaggi desertici mozzafiato, vivere lo stile di vita tradizionale berbero e godere della tranquillità del Sahara. Perfetto per chi cerca un'esperienza immersiva del deserto in un solo giorno.",
+        "Highlights": [
+          "Trek in cammello di un'intera giornata attraverso le dune dorate dell'Erg Chebbi.",
+          "Esplora i paesaggi desertici mozzafiato e gli angoli nascosti del Sahara.",
+          "Goditi un pranzo berbero tradizionale nel deserto.",
+          "Ammira viste mozzafiato sul deserto e paesaggi panoramici.",
+          "Vivi la pace e la serenità del deserto.",
+          "Scopri lo stile di vita tradizionale dei nomadi berberi."
+        ],
+        "Included": [
+          "Esperienza di trekking in cammello con una guida esperta.",
+          "Pranzo berbero tradizionale nel deserto.",
+          "Acqua in bottiglia durante il trek.",
+          "Pick-up e rientro in hotel a Merzouga."
+        ],
+        "excluded": [],
+        "Itinerary": [
+          {
+            "titre": ["Mattina:", " Partenza da Merzouga"],
+            "liste": [
+              "Pick-up dal tuo hotel o alloggio a Merzouga.",
+              "Incontra la tua guida e i cammelli e inizia il tuo trek nel deserto.",
+              "Goditi le viste pittoresche delle dune dell'Erg Chebbi mentre cavalchi il cammello."
+            ]
+          },
+          {
+            "titre": ["Mezzogiorno:", " Esplorazione del deserto e pranzo"],
+            "liste": [
+              "Fermati in un punto panoramico per goderti un pranzo berbero tradizionale.",
+              "Rilassati e goditi le viste mozzafiato sul deserto.",
+              "Continua a esplorare le dune e gli angoli nascosti del Sahara."
+            ]
+          },
+          {
+            "titre": ["Pomeriggio:", " Ritorno a Merzouga"],
+            "liste": [
+              "Inizia il tuo trek in cammello di ritorno a Merzouga.",
+              "Arriva a Merzouga, dove il tour si conclude con il rientro al tuo hotel o alloggio."
+            ]
+          }
+        ]
+      }
+    ]
+  }

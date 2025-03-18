@@ -1,0 +1,1427 @@
+{
+    "titre": "Explora Nuestros Tours",
+    "titre2": "TODOS LOS TOURS",
+    "titre3": "La Aventura Espera",
+    "text": "Embárcate en viajes inolvidables por Marruecos con nuestros tours cuidadosamente seleccionados. Desde las majestuosas Montañas del Atlas hasta las doradas dunas del Sahara, nuestros tours ofrecen una mezcla perfecta de aventura, cultura y relajación.",
+    "categories": {
+      "FROM Marrakech": "DESDE Marrakech",
+      "FROM Fes": "DESDE Fes",
+      "FROM Casablanca": "DESDE Casablanca",
+      "FROM Chefchaouen": "DESDE Chefchaouen"
+    },
+    "cards": [
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Tour de 2 días desde Marrakech al Desierto de Zagora",
+        "durre": "2 Días / 1 Noche",
+        "about": "Explora la belleza del desierto marroquí en este tour de 2 días desde Marrakech a Zagora. Experimenta los impresionantes paisajes, los pueblos bereberes tradicionales y la magia del Desierto del Sahara.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas",
+          "Visita Ait Benhaddou, un sitio Patrimonio de la Humanidad por la UNESCO",
+          "Explora el Valle del Draa y sus palmerales",
+          "Pasa una noche en un campamento en el desierto bajo las estrellas"
+        ],
+        "Included": [
+          "Transporte en un vehículo cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "Alojamiento nocturno en un campamento en el desierto",
+          "Cena y desayuno",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Ait Benhaddou - Ouarzazate - Zagora"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa por el Valle del Draa hacia Zagora",
+              "Llegada al campamento en el desierto, disfruta de un paseo en camello y contempla el atardecer",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Zagora - Marrakech"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Regreso a Marrakech a través del Valle del Draa y las Montañas del Alto Atlas",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Tour de 2 días desde Marrakech a Fes vía el Desierto de Merzouga",
+        "durre": "2 Días / 1 Noche",
+        "about": "Embárcate en una aventura de 2 días por el desierto desde Marrakech a Fes, cruzando las majestuosas Montañas del Atlas, explorando el Desierto del Sahara y experimentando la cultura única de Marruecos. Este tour ofrece una mezcla de paisajes impresionantes, sitios históricos y experiencias inolvidables en el desierto.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el impresionante Valle del Ziz",
+          "Experimenta una noche en un campamento en el desierto bajo las estrellas",
+          "Descubre las Montañas del Medio Atlas en el camino a Fes"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "Alojamiento nocturno en un campamento en el desierto",
+          "Cena y desayuno",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Desierto de Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Continúa por el Valle del Draa y el Valle del Ziz",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Desierto de Merzouga - Montañas del Medio Atlas - Fes"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Conduce por las Montañas del Medio Atlas, pasando por Erfoud y Midelt",
+              "Almuerzo en Midelt o en el camino",
+              "Continúa hacia Fes, pasando por los bosques de cedros de Azrou",
+              "Llegada a Fes por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Tour de 2 días por el Desierto desde Marrakech a Marrakech",
+        "durre": "2 Días / 1 Noche",
+        "about": "Experimenta la magia del Desierto del Sahara en este tour de 2 días desde Marrakech a Merzouga. Cruza las Montañas del Alto Atlas, visita pueblos bereberes tradicionales y pasa una noche bajo las estrellas en un campamento en el desierto. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Disfruta de un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "Alojamiento nocturno en un campamento en el desierto",
+          "Cena y desayuno",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Continúa por el Valle del Draa, pasando por Agdez y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Merzouga - Marrakech"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje de regreso a Marrakech, pasando por el Valle del Draa y las Montañas del Alto Atlas",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Viaje de 3 días por el Desierto desde Marrakech a Merzouga",
+        "durre": "3 Días / 2 Noches",
+        "about": "Embárcate en una aventura de 3 días por el desierto desde Marrakech a Merzouga, explorando los impresionantes paisajes de las Montañas del Alto Atlas, el Valle del Draa y el Desierto del Sahara. Este tour ofrece una mezcla de experiencias culturales, paisajes impresionantes y momentos inolvidables bajo las estrellas.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Dades"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "2 noches de alojamiento (1 en hotel, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Merzouga - Valle del Draa - Ouarzazate - Marrakech"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje de regreso a Marrakech, pasando por el Valle del Draa y Ouarzazate",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Viaje de 3 días por el Desierto desde Marrakech a Fes",
+        "durre": "3 Días / 2 Noches",
+        "about": "Descubre la belleza del Desierto del Sahara en este tour de 3 días desde Fes a Merzouga. Cruza las Montañas del Medio Atlas, explora el Valle del Ziz y experimenta la magia de las dunas de Erg Chebbi. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes.",
+        "Highlights": [
+          "Cruza las Montañas del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Explora el Valle del Ziz y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "2 noches de alojamiento (1 en hotel, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Merzouga - Rissani - Erfoud - Fes"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Comienza el viaje de regreso a Fes, pasando por el Valle del Ziz y las Montañas del Medio Atlas",
+              "Almuerzo en Midelt o en el camino",
+              "Llegada a Fes por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Viaje de 4 días desde Marrakech a Merzouga",
+        "durre": "4 Días / 3 Noches",
+        "about": "Embárcate en una aventura de 4 días por el desierto desde Marrakech al Desierto del Sahara y regreso. Este tour te lleva a través de las Montañas del Alto Atlas, el Valle del Draa y las impresionantes dunas de Erg Chebbi. Experimenta la magia del desierto, la cultura bereber tradicional y los paisajes impresionantes.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Dades"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "3 noches de alojamiento (2 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Merzouga - Valle del Draa - Ouarzazate - Marrakech"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje de regreso a Marrakech, pasando por el Valle del Draa y Ouarzazate",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Viaje de 4 días desde Marrakech a Fes vía Merzouga",
+        "durre": "4 Días / 3 Noches",
+        "about": "Experimenta la magia del Desierto del Sahara en este tour de 4 días desde Marrakech a Fes. Cruza las Montañas del Alto Atlas, explora el Valle del Draa y pasa una noche bajo las estrellas en un campamento en el desierto. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Ziz"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "3 noches de alojamiento (2 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Merzouga - Valle del Ziz - Midelt - Fes"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje hacia Fes, pasando por el Valle del Ziz y Midelt",
+              "Almuerzo en Midelt o en el camino",
+              "Continúa por las Montañas del Medio Atlas, pasando por Ifrane",
+              "Llegada a Fes por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Tour de 5 días por el Desierto desde Marrakech a Merzouga",
+        "durre": "5 Días / 4 Noches",
+        "about": "Experimenta la magia del Desierto del Sahara en este tour de 4 días desde Marrakech a Fes. Cruza las Montañas del Alto Atlas, explora el Valle del Draa y pasa una noche bajo las estrellas en un campamento en el desierto. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Ziz"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "3 noches de alojamiento (2 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Merzouga - Valle del Ziz - Midelt - Fes"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje hacia Fes, pasando por el Valle del Ziz y Midelt",
+              "Almuerzo en Midelt o en el camino",
+              "Continúa por las Montañas del Medio Atlas, pasando por Ifrane",
+              "Llegada a Fes por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Viaje de 5 días por el Desierto desde Marrakech a Fes",
+        "durre": "5 Días / 4 Noches",
+        "about": "Embárcate en una aventura de 5 días por el desierto desde Marrakech a Fes, explorando los impresionantes paisajes de las Montañas del Alto Atlas, el Valle del Draa y el Desierto del Sahara. Este tour ofrece una mezcla de experiencias culturales, paisajes impresionantes y momentos inolvidables bajo las estrellas.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Ziz",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "4 noches de alojamiento (3 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Merzouga - Valle del Ziz - Midelt - Ifrane - Fes"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje hacia Fes, pasando por el Valle del Ziz y Midelt",
+              "Almuerzo en Midelt o en el camino",
+              "Continúa por las Montañas del Medio Atlas, pasando por Ifrane",
+              "Llegada a Fes por la tarde"
+            ]
+          },
+          {
+            "titre": ["Día 5:", "Tour por la Ciudad de Fes"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Tour guiado por Fes, incluyendo la medina, la Madrasa Bou Inania y las curtidurías",
+              "Almuerzo en un restaurante local",
+              "Tiempo libre para explorar la ciudad",
+              "Fin del tour por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Tour de 5 días por el Desierto desde Marrakech a Marrakech",
+        "durre": "5 Días / 4 Noches",
+        "about": "Embárcate en una aventura de 5 días por el desierto desde Marrakech, explorando los impresionantes paisajes de las Montañas del Alto Atlas, el Valle del Draa y el Desierto del Sahara. Este tour ofrece una mezcla de experiencias culturales, paisajes impresionantes y momentos inolvidables bajo las estrellas, con un regreso a Marrakech al final.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Dades"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "4 noches de alojamiento (3 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Merzouga - Valle del Draa - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje de regreso a Marrakech, pasando por el Valle del Draa y Ouarzazate",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Visita Ait Benhaddou nuevamente para una breve parada",
+              "Continúa hacia Marrakech a través de las Montañas del Alto Atlas",
+              "Llegada a Marrakech por la tarde"
+            ]
+          },
+          {
+            "titre": ["Día 5:", "Tour por la Ciudad de Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Tour guiado por Marrakech, incluyendo la Mezquita Koutoubia, el Palacio Bahía y la plaza Jemaa el-Fnaa",
+              "Almuerzo en un restaurante local",
+              "Tiempo libre para explorar la ciudad",
+              "Fin del tour por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Marrakech",
+        "titre": "Tour de 9 días desde Marrakech a Zagora / Erg Chegaga",
+        "durre": "9 Días / 8 Noches",
+        "about": "Embárcate en una aventura de 9 días desde Marrakech al Desierto de Zagora, explorando los diversos paisajes de Marruecos. Este tour te lleva a través de las Montañas del Alto Atlas, el Valle del Draa, el Desierto del Sahara y la ciudad costera de Essaouira. Experimenta la rica cultura, historia y belleza natural de Marruecos en este viaje inolvidable.",
+        "Highlights": [
+          "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+          "Explora el Valle del Draa y sus palmerales",
+          "Experimenta un paseo en camello por el Desierto de Zagora",
+          "Pasa una noche en un campamento en el desierto bajo las estrellas",
+          "Descubre el Desfiladero de Todra y el Valle del Dades",
+          "Visita la ciudad costera de Essaouira"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "8 noches de alojamiento (7 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Marrakech - Montañas del Alto Atlas - Ait Benhaddou - Ouarzazate"],
+            "liste": [
+              "Salida temprano en la mañana desde Marrakech",
+              "Cruza el paso Tizi n'Tichka (2260m) en las Montañas del Alto Atlas",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Cena y noche en un hotel en Ouarzazate"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Ouarzazate - Valle del Draa - Desierto de Zagora"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Explora el Valle del Draa y sus palmerales",
+              "Almuerzo en Agdez o en el camino",
+              "Continúa hacia Zagora, la puerta de entrada al Desierto del Sahara",
+              "Disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas",
+              "Cena y noche en un campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Exploración del Desierto de Zagora"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Zagora, incluyendo una visita a una familia nómada",
+              "Almuerzo en Zagora",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Zagora - Valle del Draa - Ouarzazate - Valle del Dades"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Zagora en camello o 4x4",
+              "Comienza el viaje hacia el Valle del Dades, pasando por el Valle del Draa y Ouarzazate",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 5:", "Valle del Dades - Desfiladero de Todra - Desierto de Merzouga"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Merzouga pasando por Erfoud y Rissani",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 6:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 7:", "Merzouga - Valle del Draa - Ouarzazate - Marrakech"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Comienza el viaje de regreso a Marrakech, pasando por el Valle del Draa y Ouarzazate",
+              "Almuerzo en Ouarzazate o en el camino",
+              "Continúa hacia Marrakech a través de las Montañas del Alto Atlas",
+              "Llegada a Marrakech por la tarde"
+            ]
+          },
+          {
+            "titre": ["Día 8:", "Marrakech - Essaouira"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Salida hacia Essaouira, una encantadora ciudad costera",
+              "Explora Essaouira, incluyendo la medina, el puerto y la playa",
+              "Almuerzo en un restaurante local",
+              "Tiempo libre para relajarse o explorar la ciudad",
+              "Cena y noche en un hotel en Essaouira"
+            ]
+          },
+          {
+            "titre": ["Día 9:", "Essaouira - Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Tiempo libre para explorar Essaouira por la mañana",
+              "Almuerzo en Essaouira",
+              "Regreso a Marrakech por la tarde",
+              "Llegada a Marrakech por la tarde",
+              "Fin del tour"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Fes",
+        "titre": "Viaje de 2 días por el Desierto desde Fes a Merzouga",
+        "durre": "2 Días / 1 Noche",
+        "about": "Embárcate en una aventura de 2 días por el desierto desde Fes a Merzouga, explorando los impresionantes paisajes de las Montañas del Medio Atlas, el Valle del Ziz y el Desierto del Sahara. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes, con una noche bajo las estrellas en un campamento en el desierto.",
+        "Highlights": [
+          "Cruza las Montañas del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Explora el Valle del Ziz y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "1 noche de alojamiento en un campamento en el desierto",
+          "Cena y desayuno",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Merzouga - Rissani - Erfoud - Fes"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Comienza el viaje de regreso a Fes, pasando por el Valle del Ziz y las Montañas del Medio Atlas",
+              "Almuerzo en Midelt o en el camino",
+              "Llegada a Fes por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Fes",
+        "titre": "Tour de 3 días desde Fes a Marrakech vía Merzouga",
+        "durre": "3 Días / 2 Noches",
+        "about": "Embárcate en una aventura de 3 días por el desierto desde Fes a Marrakech, explorando los impresionantes paisajes de las Montañas del Medio Atlas, el Valle del Ziz y el Desierto del Sahara. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes, con una noche bajo las estrellas en un campamento en el desierto.",
+        "Highlights": [
+          "Cruza las Montañas del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Explora el Valle del Ziz y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Valle del Draa y las Montañas del Alto Atlas"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "2 noches de alojamiento (1 en hotel, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Merzouga - Rissani - Erfoud - Desfiladero de Todra - Valle del Dades"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Continúa hacia el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Valle del Dades - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Fes",
+        "titre": "Tour de 3 días por el Desierto desde Fes a Merzouga",
+        "durre": "3 Días / 2 Noches",
+        "about": "Embárcate en una aventura de 3 días por el desierto desde Fes, explorando los impresionantes paisajes de las Montañas del Medio Atlas, el Valle del Ziz y el Desierto del Sahara. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes, con una noche bajo las estrellas en un campamento en el desierto, antes de regresar a Fes.",
+        "Highlights": [
+          "Cruza las Montañas del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Explora el Valle del Ziz y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "2 noches de alojamiento (1 en hotel, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Merzouga - Rissani - Erfoud - Valle del Ziz - Fes"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Comienza el viaje de regreso a Fes, pasando por el Valle del Ziz y las Montañas del Medio Atlas",
+              "Almuerzo en Midelt o en el camino",
+              "Llegada a Fes por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Fes",
+        "titre": "Viaje de 4 días por el Desierto desde Fes a Marrakech",
+        "durre": "4 Días / 3 Noches",
+        "about": "Embárcate en una aventura de 4 días por el desierto desde Fes a Marrakech, explorando los impresionantes paisajes de las Montañas del Medio Atlas, el Valle del Ziz y el Desierto del Sahara. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes, con una noche bajo las estrellas en un campamento en el desierto y una visita a comunidades nómadas.",
+        "Highlights": [
+          "Cruza las Montañas del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Explora el Valle del Ziz y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Visita comunidades nómadas y aprende sobre su forma de vida",
+          "Descubre el Desfiladero de Todra y el Valle del Dades"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "3 noches de alojamiento (2 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Merzouga - Rissani - Desfiladero de Todra - Valle del Dades"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Continúa hacia el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Valle del Dades - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Fes",
+        "titre": "Viaje de 5 días desde Fes a Marrakech vía Merzouga",
+        "durre": "5 Días / 4 Noches",
+        "about": "Embárcate en una aventura de 5 días desde Fes a Marrakech, explorando los impresionantes paisajes de las Montañas del Medio Atlas, el Valle del Ziz, el Desierto del Sahara y el Desfiladero de Todra. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes, con una noche bajo las estrellas en un campamento en el desierto.",
+        "Highlights": [
+          "Cruza las Montañas del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Explora el Valle del Ziz y sus palmerales",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Dades",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "4 noches de alojamiento (3 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Merzouga - Rissani - Desfiladero de Todra - Valle del Dades"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Continúa hacia el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Valle del Dades - Ouarzazate - Ait Benhaddou"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Tiempo libre para explorar Ouarzazate",
+              "Cena y noche en un hotel en Ouarzazate"
+            ]
+          },
+          {
+            "titre": ["Día 5:", "Ouarzazate - Montañas del Alto Atlas - Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+              "Almuerzo en un restaurante local en el camino",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Casablanca",
+        "titre": "Tour de 6 días desde Casablanca a Marrakech",
+        "durre": "6 Días / 5 Noches",
+        "about": "Embárcate en una aventura de 6 días desde Casablanca a Marrakech, explorando los diversos paisajes de Marruecos. Este tour te lleva a través de las ciudades imperiales de Rabat y Fes, las Montañas del Medio Atlas, el Desierto del Sahara y el impresionante Desfiladero de Todra. Experimenta la rica cultura, historia y belleza natural de Marruecos en este viaje inolvidable.",
+        "Highlights": [
+          "Visita la Mezquita Hassan II en Casablanca",
+          "Explora las ciudades imperiales de Rabat y Fes",
+          "Cruza las Montañas del Medio Atlas",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Dades",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "5 noches de alojamiento (4 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Casablanca - Rabat - Fes"],
+            "liste": [
+              "Llegada a Casablanca y visita a la Mezquita Hassan II",
+              "Salida hacia Rabat, la capital de Marruecos",
+              "Visita el Palacio Real, la Torre Hassan y la Necrópolis de Chellah",
+              "Almuerzo en Rabat",
+              "Continúa hacia Fes",
+              "Cena y noche en un hotel en Fes"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Tour por la Ciudad de Fes"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Tour guiado por Fes, incluyendo la medina, la Madrasa Bou Inania y las curtidurías",
+              "Almuerzo en un restaurante local",
+              "Tiempo libre para explorar la ciudad",
+              "Cena y noche en un hotel en Fes"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 5:", "Merzouga - Rissani - Desfiladero de Todra - Valle del Dades"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Continúa hacia el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 6:", "Valle del Dades - Ouarzazate - Ait Benhaddou - Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Casablanca",
+        "titre": "8 días Ciudades Imperiales y Desierto de Merzouga",
+        "durre": "8 Días / 7 Noches",
+        "about": "Embárcate en una aventura de 8 días por Marruecos, explorando las ciudades imperiales, el Desierto del Sahara y los impresionantes desfiladeros. Este tour te lleva a través de Rabat, Fes, Merzouga, el Desfiladero de Todra, el Valle del Dades, Ouarzazate y Marrakech. Experimenta la rica cultura, historia y belleza natural de Marruecos en este viaje inolvidable.",
+        "Highlights": [
+          "Visita las ciudades imperiales de Rabat, Fes y Marrakech",
+          "Cruza las Montañas del Medio Atlas",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto",
+          "Descubre el Desfiladero de Todra y el Valle del Dades",
+          "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "7 noches de alojamiento (6 en hoteles, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Casablanca - Rabat - Fes"],
+            "liste": [
+              "Llegada a Casablanca y visita a la Mezquita Hassan II",
+              "Salida hacia Rabat, la capital de Marruecos",
+              "Visita el Palacio Real, la Torre Hassan y la Necrópolis de Chellah",
+              "Almuerzo en Rabat",
+              "Continúa hacia Fes",
+              "Cena y noche en un hotel en Fes"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Tour por la Ciudad de Fes"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Tour guiado por Fes, incluyendo la medina, la Madrasa Bou Inania y las curtidurías",
+              "Almuerzo en un restaurante local",
+              "Tiempo libre para explorar la ciudad",
+              "Cena y noche en un hotel en Fes"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Fes - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Fes",
+              "Cruza las Montañas del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 4:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 5:", "Merzouga - Rissani - Desfiladero de Todra - Valle del Dades"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Continúa hacia el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia el Valle del Dades a través del Valle de las Rosas",
+              "Cena y noche en un hotel en el Valle del Dades"
+            ]
+          },
+          {
+            "titre": ["Día 6:", "Valle del Dades - Ouarzazate - Ait Benhaddou"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Visita el sitio Patrimonio de la Humanidad de Ait Benhaddou",
+              "Almuerzo en Ouarzazate",
+              "Tiempo libre para explorar Ouarzazate",
+              "Cena y noche en un hotel en Ouarzazate"
+            ]
+          },
+          {
+            "titre": ["Día 7:", "Ouarzazate - Montañas del Alto Atlas - Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Cruza las Montañas del Alto Atlas por el paso Tizi n'Tichka",
+              "Almuerzo en un restaurante local en el camino",
+              "Llegada a Marrakech por la tarde",
+              "Cena y noche en un hotel en Marrakech"
+            ]
+          },
+          {
+            "titre": ["Día 8:", "Tour por la Ciudad de Marrakech"],
+            "liste": [
+              "Desayuno en el hotel",
+              "Tour guiado por Marrakech, incluyendo la Mezquita Koutoubia, el Palacio Bahía y la plaza Jemaa el-Fnaa",
+              "Almuerzo en un restaurante local",
+              "Tiempo libre para explorar la ciudad",
+              "Fin del tour"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DESDE Chefchaouen",
+        "titre": "Tour de 3 días por el Desierto desde Chefchaouen a Marrakech",
+        "durre": "3 Días / 2 Noches",
+        "about": "Embárcate en una aventura de 3 días por el desierto desde Chefchaouen a Marrakech, explorando los impresionantes paisajes de las Montañas del Rif, las Montañas del Medio Atlas y el Desierto del Sahara. Este tour ofrece una mezcla perfecta de aventura, cultura y paisajes impresionantes, con una noche bajo las estrellas en un campamento en el desierto.",
+        "Highlights": [
+          "Explora la ciudad azul de Chefchaouen",
+          "Cruza las Montañas del Rif y del Medio Atlas",
+          "Visita la encantadora ciudad de Ifrane y los bosques de cedros de Azrou",
+          "Experimenta un paseo en camello por las dunas de Merzouga",
+          "Pasa una noche en un campamento de lujo en el desierto"
+        ],
+        "Included": [
+          "Transporte en un 4x4 o minivan cómodo",
+          "Conductor/guía que habla inglés/francés",
+          "2 noches de alojamiento (1 en hotel, 1 en campamento en el desierto)",
+          "Cenas y desayunos",
+          "Paseo en camello por el desierto"
+        ],
+        "Excluded": [
+          "Almuerzo y bebidas",
+          "Gastos personales",
+          "Propinas"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Día 1:", "Chefchaouen - Ifrane - Azrou - Midelt - Valle del Ziz - Merzouga"],
+            "liste": [
+              "Salida temprano en la mañana desde Chefchaouen",
+              "Cruza las Montañas del Rif y del Medio Atlas, pasando por Ifrane (conocida como 'la pequeña Suiza')",
+              "Visita los bosques de cedros de Azrou y observa los macacos de Berbería",
+              "Almuerzo en Midelt",
+              "Continúa por el Valle del Ziz, famoso por sus palmerales y paisajes impresionantes",
+              "Llegada a Merzouga, disfruta de un paseo en camello al campamento en el desierto",
+              "Contempla el atardecer sobre las dunas de Erg Chebbi",
+              "Cena y noche en un campamento de lujo en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 2:", "Exploración del Desierto de Merzouga"],
+            "liste": [
+              "Amanecer temprano en el desierto",
+              "Desayuno en el campamento",
+              "Explora el área de Merzouga, incluyendo una visita a una familia nómada",
+              "Visita el pueblo de Khamlia para experimentar la música Gnawa",
+              "Almuerzo en Merzouga",
+              "Tiempo libre para relajarse o explorar las dunas",
+              "Cena y noche en el campamento en el desierto"
+            ]
+          },
+          {
+            "titre": ["Día 3:", "Merzouga - Rissani - Erfoud - Desfiladero de Todra - Valle del Dades - Ouarzazate - Marrakech"],
+            "liste": [
+              "Desayuno en el campamento",
+              "Regreso a Merzouga en camello o 4x4",
+              "Visita el pueblo mercantil de Rissani y los talleres de fósiles en Erfoud",
+              "Continúa hacia el Desfiladero de Todra y disfruta de tiempo libre para explorar",
+              "Almuerzo en Tinghir o en el camino",
+              "Continúa hacia Marrakech a través del Valle del Dades, Ouarzazate y las Montañas del Alto Atlas",
+              "Llegada a Marrakech por la tarde"
+            ]
+          }
+        ]
+      }
+    ]
+  }

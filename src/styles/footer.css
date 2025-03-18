@@ -1,0 +1,183 @@
+/* 🌍 Styles généraux du Footer */
+.footer {
+    background-image: url('../assets/images/back.PNG');
+    padding: 20px 40px;
+    font-family: Arial, sans-serif;
+    padding: 20px 80px;
+    margin-top: 70px ;
+    border-top: 15px solid #FF9200 ;
+  }
+
+  /* 📌 Organisation en trois colonnes */
+  .footer-top {
+    display: flex;
+    padding: 0 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #4e4e4e;
+  }
+  
+  .footer-section {
+    flex: 1;
+    text-align: left;
+  }
+  .locations{
+    flex: 2;
+  }
+  .footer-top h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: #333;
+    font-weight: bold;
+  }
+
+  .footer-section ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 8px;
+    font-size: 17px;
+    color: #555;
+    cursor: pointer;
+  }
+  
+  .footer-section a {
+    text-decoration: none;
+    color: #555;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .footer-section li:hover a,
+  .footer-section li.active a {
+    color: #000; 
+  }
+  
+  /* 🏙️ Organisation des locations */
+  .locations-list {
+    display: flex;
+    font-size: 17px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .location-item {
+    background: none;
+    padding: 7px 12px;
+    border: 1px solid rgb(51, 51, 51);
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  /* 🏠 Footer Middle */
+  .footer-middle {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0;
+  }
+  .footer-middle .ligne{
+    height: 130px;
+    width: 1px;
+    background-color: #4e4e4e;
+  }
+  .footer-logo {
+    width: 140px;
+    height: auto;
+  }
+  
+  .footer-middle a {
+    text-decoration: none;
+    color: #000;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  /* 📞 Contact Box */
+  .contact-box {
+    text-align: center;
+    font-size: 16px;
+    border: 1px solid rgb(51, 51, 51);
+    padding: 0 10px;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  /* 📌 Footer Bottom */
+  .footer-bottom {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    border-top: 1px solid #4e4e4e;
+  }
+  
+  .footer-bottom p {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  
+  /* 🌍 Icônes des réseaux sociaux */
+  .social-icons {
+    display: flex;
+    gap: 15px;
+  }
+  .social-icons a{
+    color: #000;
+  }
+  .social-icons svg {
+    font-size: 24px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+   
+  .social-icons svg:hover {
+    transform: scale(1.2);
+    color: #FF9200;
+  }
+  
+  /* 📱 Responsive (mobile) */
+  @media (max-width: 768px) {
+    .footer {
+      padding: 5px; /* Réduire le padding pour les petits écrans */
+    }
+  
+    .footer-top {
+      flex-direction: column; /* Une seule colonne pour les petits écrans */
+    }
+  
+  
+    .footer-middle {
+      flex-direction: column;
+      text-align: center;
+      align-items: center; /* Centrer les éléments */
+      padding: 10px 0;
+    }
+    .footer-middle .ligne{
+      display: none;
+    }
+    .footer-logo {
+      margin: 10px 0;
+    }
+  
+    .footer-bottom {
+      flex-direction: column;
+      text-align: center;
+      align-items: center; /* Centrer les éléments */
+    }
+  
+    /* Réduction de la taille des icônes pour les petits écrans */
+    .social-icons svg {
+      font-size: 20px; /* Taille réduite des icônes */
+    }
+  
+    /* Réduction de la taille des textes pour plus d'espace */
+    .footer-section h3 {
+      font-size: 16px;
+    }
+  
+    .footer-bottom p {
+      font-size: 12px;
+    }
+  }

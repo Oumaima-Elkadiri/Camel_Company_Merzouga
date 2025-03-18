@@ -1,0 +1,206 @@
+/* Style général */
+.details-page {
+    color: #333;
+    max-width: 1200px;
+    margin: 100px auto;
+    font-size: 18px;
+    padding: 0 20px; /* Ajoute un padding pour les petits écrans */
+  }
+  
+  /* Section Hero */
+  .hero-section {
+    background-image: url('../assets/images/back.PNG');
+    text-align: center;
+    margin-top: 120px;
+    padding: 30px 0;
+  }
+  
+  .hero-section h1 {
+    color: #2c3e50;
+    font-weight: 530;
+    font-size: 2.5rem;
+    margin: 20px;
+  }
+  
+  .hero-section h3 {
+    color: #333;
+    font-size: 1.3rem;
+    margin: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    justify-content: center;
+  }
+  
+  .hero-section .info {
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: center;
+  }
+  
+  .hero-image {
+    display: block;
+    width: 60%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    margin: 30px auto;
+  }
+  
+  /* Section Principale */
+  .main-content {
+    padding: 20px;
+    border-top: 1px solid rgb(206, 205, 205);
+  }
+  
+  /* Sections communes */
+  .about-section,
+  .highlights-section,
+  .inclusions-exclusions,
+  .itinerary-section {
+    margin-bottom: 40px;
+  }
+  
+  .details-page h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+  }
+  
+  .details-page ul,
+  .details-page ol {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .highlights-section ul li,
+  .highlights-section ol li {
+    position: relative;
+    padding-left: 24px;
+    margin-bottom: 10px;
+    line-height: 1.6;
+  }
+  
+  .highlights-section ul li::before,
+  .highlights-section ol li::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background-image: url('../assets/images/plusB.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  /* Inclusions et Exclusions */
+  .inclusions-exclusions {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .inclusions-section,
+  .exclusions-section {
+    flex: 1;
+    background-color: #ecf0f1;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Itinéraire */
+  .itinerary-section ol li {
+    background-color: #e8f4f8;
+    border-left-color: #2980b9;
+  }
+  
+  .itinerary-section h3 {
+    font-size: 19px;
+    font-weight: 550;
+    margin: 30px;
+  }
+  
+  .itinerary-section .day {
+    font-size: 24px;
+    background-color: antiquewhite;
+    padding: 10px 30px;
+    margin: 20px 20px 20px 0;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .itinerary-section ul,
+  .itinerary-section ol {
+    list-style-type: disc;
+    margin-left: 100px;
+  }
+  
+  
+  /* Pour les écrans mobiles (jusqu'à 768px) */
+  @media (max-width: 768px) {
+    .details-page {
+      margin: 50px auto; /* Réduit la marge supérieure */
+      font-size: 16px; /* Réduit la taille de la police */
+    }
+  
+    .hero-section {
+      margin-top: 100px; /* Réduit la marge supérieure */
+      padding: 20px 0; /* Réduit le padding */
+    }
+  
+    .hero-section h1 {
+      font-size: 1.8rem; /* Réduit la taille du titre */
+    }
+  
+    .hero-section h3 {
+      font-size: 1rem; /* Réduit la taille du sous-titre */
+      letter-spacing: 1px; /* Réduit l'espacement des lettres */
+    }
+  
+    .hero-section .info {
+      gap: 20px; /* Réduit l'espace entre les éléments */
+    }
+  
+    .hero-image {
+      width: 90%; /* Augmente la largeur de l'image */
+      height: 200px; /* Réduit la hauteur de l'image */
+    }
+  
+    .main-content {
+      padding: 10px; /* Réduit le padding */
+    }
+  
+    .details-page h2 {
+      font-size: 24px; /* Réduit la taille des titres */
+    }
+    /* Inclusions et Exclusions */
+    .inclusions-exclusions {
+        flex-direction: column; /* Empile les éléments verticalement */
+    }
+    .inclusions-section,
+    .exclusions-section {
+      padding: 15px; /* Réduit le padding */
+    }
+  
+    .itinerary-section h3 {
+      font-size: 16px; /* Réduit la taille des titres */
+      margin: 20px; /* Réduit la marge */
+    }
+  
+    .itinerary-section .day {
+      font-size: 20px; /* Réduit la taille de la police */
+      padding: 8px 20px; /* Réduit le padding */
+      margin: 15px 15px 15px 0; /* Réduit la marge */
+    }
+  
+    .itinerary-section ul,
+    .itinerary-section ol {
+      margin-left: 20px; /* Réduit la marge gauche */
+    }
+  }

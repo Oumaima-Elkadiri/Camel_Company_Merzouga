@@ -1,0 +1,85 @@
+{
+    "titre": "Explorez le Maroc en une Journée",
+    "titre2": "EXCURSIONS D'UNE JOURNÉE",
+    "titre3": "Aventures Inoubliables",
+    "text": "Découvrez la magie du Maroc avec nos excursions d'une journée soigneusement sélectionnées. Des dunes dorées du Sahara aux oasis luxuriantes et aux villes vibrantes, chaque voyage offre un aperçu unique de la culture riche, de l'histoire et de la beauté naturelle de ce pays enchanteur. Que vous recherchiez l'aventure, la détente ou l'immersion culturelle, nos excursions d'une journée ont quelque chose pour tout le monde.",
+    "cards": [
+      { 
+        "from": "DEPUIS Marrakech",
+        "titre": "Excursion d'une journée de Marrakech à Essaouira - Excursion depuis Marrakech",
+        "durre": "1 JOUR",
+        "about": "Partez pour une excursion d'une journée de Marrakech à Essaouira, une charmante ville côtière connue pour son atmosphère détendue, sa médina historique et ses magnifiques plages. Cette excursion offre un mélange parfait de culture, d'histoire et de beauté panoramique, ce qui en fait une escapade idéale depuis la ville animée de Marrakech.",
+        "Highlights": [
+          "Explorez la médina historique d'Essaouira, classée au patrimoine mondial de l'UNESCO",
+          "Visitez la Skala de la Ville, une rampe historique en bord de mer",
+          "Promenez-vous dans le marché aux poissons animé et le port",
+          "Détendez-vous sur les magnifiques plages d'Essaouira",
+          "Découvrez l'artisanat local et les galeries d'art"
+        ],
+        "Included": [
+          "Transport dans un véhicule confortable",
+          "Chauffeur/guide parlant anglais/français",
+          "Prise en charge et retour à votre hébergement à Marrakech"
+        ],
+        "Excluded": [
+          "Déjeuner et boissons",
+          "Dépenses personnelles",
+          "Pourboires"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Jour 1 :", "Marrakech - Essaouira - Marrakech"],
+            "liste": [
+              "Départ tôt le matin de Marrakech",
+              "Trajet pittoresque à travers les forêts d'arganiers",
+              "Arrivée à Essaouira et début de la visite guidée",
+              "Visite de la Skala de la Ville et de la médina historique",
+              "Exploration du marché aux poissons et du port",
+              "Déjeuner dans un restaurant local (optionnel)",
+              "Temps libre pour se détendre sur la plage ou explorer la ville",
+              "Retour à Marrakech en soirée"
+            ]
+          }
+        ]
+      },
+      {
+        "from": "DEPUIS Fès",
+        "titre": "Excursion d'une journée de Fès à Chefchaouen - Excursion depuis Fès",
+        "durre": "1 JOUR",
+        "about": "Partez pour une excursion d'une journée de Fès à Chefchaouen, la célèbre ville bleue nichée dans les montagnes du Rif. Connue pour ses rues peintes en bleu, ses marchés animés et son atmosphère détendue, Chefchaouen offre une expérience unique et inoubliable. Cette excursion est parfaite pour ceux qui souhaitent explorer le charme et la beauté de l'une des destinations les plus emblématiques du Maroc.",
+        "Highlights": [
+          "Explorez les rues peintes en bleu de Chefchaouen",
+          "Visitez le Musée Kasbah et la Grande Mosquée",
+          "Promenez-vous dans les marchés locaux animés",
+          "Profitez des vues panoramiques depuis la Mosquée Espagnole",
+          "Détendez-vous dans l'atmosphère paisible de la ville"
+        ],
+        "Included": [
+          "Transport dans un véhicule confortable",
+          "Chauffeur/guide parlant anglais/français",
+          "Prise en charge et retour à votre hébergement à Fès"
+        ],
+        "Excluded": [
+          "Déjeuner et boissons",
+          "Dépenses personnelles",
+          "Pourboires"
+        ],
+        "Itinerary": [
+          {
+            "titre": ["Jour 1 :", "Fès - Chefchaouen - Fès"],
+            "liste": [
+              "Départ tôt le matin de Fès",
+              "Trajet pittoresque à travers les montagnes du Rif",
+              "Arrivée à Chefchaouen et début de la visite guidée",
+              "Visite du Musée Kasbah et de la Grande Mosquée",
+              "Promenade dans les rues peintes en bleu et les marchés locaux",
+              "Déjeuner dans un restaurant local (optionnel)",
+              "Profitez des vues panoramiques depuis la Mosquée Espagnole",
+              "Temps libre pour explorer la ville à votre rythme",
+              "Retour à Fès en soirée"
+            ]
+          }
+        ]
+      }
+    ]
+  }
